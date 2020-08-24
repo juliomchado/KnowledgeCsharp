@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\File_FileInfo_IOException\File_FileInfo_IOException\bin\Debug\netcoreapp3.0\File_FileInfo_IOException.exe
+C:\Users\Jsix\source\repos\File_FileInfo_IOException\File_FileInfo_IOException\bin\Debug\netcoreapp3.0\File_FileInfo_IOException.deps.json
+C:\Users\Jsix\source\repos\File_FileInfo_IOException\File_FileInfo_IOException\bin\Debug\netcoreapp3.0\File_FileInfo_IOException.runtimeconfig.json
+C:\Users\Jsix\source\repos\File_FileInfo_IOException\File_FileInfo_IOException\bin\Debug\netcoreapp3.0\File_FileInfo_IOException.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\File_FileInfo_IOException\File_FileInfo_IOException\bin\Debug\netcoreapp3.0\File_FileInfo_IOException.dll
+C:\Users\Jsix\source\repos\File_FileInfo_IOException\File_FileInfo_IOException\bin\Debug\netcoreapp3.0\File_FileInfo_IOException.pdb
+C:\Users\Jsix\source\repos\File_FileInfo_IOException\File_FileInfo_IOException\obj\Debug\netcoreapp3.0\File_FileInfo_IOException.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\File_FileInfo_IOException\File_FileInfo_IOException\obj\Debug\netcoreapp3.0\File_FileInfo_IOException.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\File_FileInfo_IOException\File_FileInfo_IOException\obj\Debug\netcoreapp3.0\File_FileInfo_IOException.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\File_FileInfo_IOException\File_FileInfo_IOException\obj\Debug\netcoreapp3.0\File_FileInfo_IOException.dll
+C:\Users\Jsix\source\repos\File_FileInfo_IOException\File_FileInfo_IOException\obj\Debug\netcoreapp3.0\File_FileInfo_IOException.pdb

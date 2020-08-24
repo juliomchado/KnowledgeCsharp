@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\AutoProperties\AutoProperties\bin\Debug\netcoreapp2.1\AutoProperties.deps.json
+C:\Users\Jsix\source\repos\AutoProperties\AutoProperties\bin\Debug\netcoreapp2.1\AutoProperties.runtimeconfig.json
+C:\Users\Jsix\source\repos\AutoProperties\AutoProperties\bin\Debug\netcoreapp2.1\AutoProperties.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\AutoProperties\AutoProperties\bin\Debug\netcoreapp2.1\AutoProperties.dll
+C:\Users\Jsix\source\repos\AutoProperties\AutoProperties\bin\Debug\netcoreapp2.1\AutoProperties.pdb
+C:\Users\Jsix\source\repos\AutoProperties\AutoProperties\obj\Debug\netcoreapp2.1\AutoProperties.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\AutoProperties\AutoProperties\obj\Debug\netcoreapp2.1\AutoProperties.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\AutoProperties\AutoProperties\obj\Debug\netcoreapp2.1\AutoProperties.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\AutoProperties\AutoProperties\obj\Debug\netcoreapp2.1\AutoProperties.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\AutoProperties\AutoProperties\obj\Debug\netcoreapp2.1\AutoProperties.dll
+C:\Users\Jsix\source\repos\AutoProperties\AutoProperties\obj\Debug\netcoreapp2.1\AutoProperties.pdb

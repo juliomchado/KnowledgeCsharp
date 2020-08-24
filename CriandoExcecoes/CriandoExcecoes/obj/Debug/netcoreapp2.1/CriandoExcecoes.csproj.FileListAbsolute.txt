@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\CriandoExcecoes\CriandoExcecoes\bin\Debug\netcoreapp2.1\CriandoExcecoes.deps.json
+C:\Users\Jsix\source\repos\CriandoExcecoes\CriandoExcecoes\bin\Debug\netcoreapp2.1\CriandoExcecoes.runtimeconfig.json
+C:\Users\Jsix\source\repos\CriandoExcecoes\CriandoExcecoes\bin\Debug\netcoreapp2.1\CriandoExcecoes.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\CriandoExcecoes\CriandoExcecoes\bin\Debug\netcoreapp2.1\CriandoExcecoes.dll
+C:\Users\Jsix\source\repos\CriandoExcecoes\CriandoExcecoes\bin\Debug\netcoreapp2.1\CriandoExcecoes.pdb
+C:\Users\Jsix\source\repos\CriandoExcecoes\CriandoExcecoes\obj\Debug\netcoreapp2.1\CriandoExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\CriandoExcecoes\CriandoExcecoes\obj\Debug\netcoreapp2.1\CriandoExcecoes.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\CriandoExcecoes\CriandoExcecoes\obj\Debug\netcoreapp2.1\CriandoExcecoes.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\CriandoExcecoes\CriandoExcecoes\obj\Debug\netcoreapp2.1\CriandoExcecoes.dll
+C:\Users\Jsix\source\repos\CriandoExcecoes\CriandoExcecoes\obj\Debug\netcoreapp2.1\CriandoExcecoes.pdb
+C:\Users\Jsix\source\repos\CriandoExcecoes\CriandoExcecoes\obj\Debug\netcoreapp2.1\CriandoExcecoes.csprojAssemblyReference.cache

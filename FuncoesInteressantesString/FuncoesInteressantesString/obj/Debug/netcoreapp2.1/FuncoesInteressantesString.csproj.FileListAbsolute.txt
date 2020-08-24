@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\FuncoesInteressantesString\FuncoesInteressantesString\bin\Debug\netcoreapp2.1\FuncoesInteressantesString.deps.json
+C:\Users\Jsix\source\repos\FuncoesInteressantesString\FuncoesInteressantesString\bin\Debug\netcoreapp2.1\FuncoesInteressantesString.runtimeconfig.json
+C:\Users\Jsix\source\repos\FuncoesInteressantesString\FuncoesInteressantesString\bin\Debug\netcoreapp2.1\FuncoesInteressantesString.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\FuncoesInteressantesString\FuncoesInteressantesString\bin\Debug\netcoreapp2.1\FuncoesInteressantesString.dll
+C:\Users\Jsix\source\repos\FuncoesInteressantesString\FuncoesInteressantesString\bin\Debug\netcoreapp2.1\FuncoesInteressantesString.pdb
+C:\Users\Jsix\source\repos\FuncoesInteressantesString\FuncoesInteressantesString\obj\Debug\netcoreapp2.1\FuncoesInteressantesString.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\FuncoesInteressantesString\FuncoesInteressantesString\obj\Debug\netcoreapp2.1\FuncoesInteressantesString.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\FuncoesInteressantesString\FuncoesInteressantesString\obj\Debug\netcoreapp2.1\FuncoesInteressantesString.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\FuncoesInteressantesString\FuncoesInteressantesString\obj\Debug\netcoreapp2.1\FuncoesInteressantesString.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\FuncoesInteressantesString\FuncoesInteressantesString\obj\Debug\netcoreapp2.1\FuncoesInteressantesString.dll
+C:\Users\Jsix\source\repos\FuncoesInteressantesString\FuncoesInteressantesString\obj\Debug\netcoreapp2.1\FuncoesInteressantesString.pdb

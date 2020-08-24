@@ -1,0 +1,10 @@
+C:\Users\Jsix\source\repos\Lista\Lista\bin\Debug\netcoreapp2.1\Lista.deps.json
+C:\Users\Jsix\source\repos\Lista\Lista\bin\Debug\netcoreapp2.1\Lista.runtimeconfig.json
+C:\Users\Jsix\source\repos\Lista\Lista\bin\Debug\netcoreapp2.1\Lista.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\Lista\Lista\bin\Debug\netcoreapp2.1\Lista.dll
+C:\Users\Jsix\source\repos\Lista\Lista\bin\Debug\netcoreapp2.1\Lista.pdb
+C:\Users\Jsix\source\repos\Lista\Lista\obj\Debug\netcoreapp2.1\Lista.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\Lista\Lista\obj\Debug\netcoreapp2.1\Lista.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\Lista\Lista\obj\Debug\netcoreapp2.1\Lista.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\Lista\Lista\obj\Debug\netcoreapp2.1\Lista.dll
+C:\Users\Jsix\source\repos\Lista\Lista\obj\Debug\netcoreapp2.1\Lista.pdb

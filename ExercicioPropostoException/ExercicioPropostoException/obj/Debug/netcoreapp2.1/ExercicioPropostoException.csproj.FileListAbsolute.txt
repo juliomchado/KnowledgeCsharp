@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\ExercicioPropostoException\ExercicioPropostoException\bin\Debug\netcoreapp2.1\ExercicioPropostoException.deps.json
+C:\Users\Jsix\source\repos\ExercicioPropostoException\ExercicioPropostoException\bin\Debug\netcoreapp2.1\ExercicioPropostoException.runtimeconfig.json
+C:\Users\Jsix\source\repos\ExercicioPropostoException\ExercicioPropostoException\bin\Debug\netcoreapp2.1\ExercicioPropostoException.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ExercicioPropostoException\ExercicioPropostoException\bin\Debug\netcoreapp2.1\ExercicioPropostoException.dll
+C:\Users\Jsix\source\repos\ExercicioPropostoException\ExercicioPropostoException\bin\Debug\netcoreapp2.1\ExercicioPropostoException.pdb
+C:\Users\Jsix\source\repos\ExercicioPropostoException\ExercicioPropostoException\obj\Debug\netcoreapp2.1\ExercicioPropostoException.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ExercicioPropostoException\ExercicioPropostoException\obj\Debug\netcoreapp2.1\ExercicioPropostoException.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\ExercicioPropostoException\ExercicioPropostoException\obj\Debug\netcoreapp2.1\ExercicioPropostoException.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ExercicioPropostoException\ExercicioPropostoException\obj\Debug\netcoreapp2.1\ExercicioPropostoException.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ExercicioPropostoException\ExercicioPropostoException\obj\Debug\netcoreapp2.1\ExercicioPropostoException.dll
+C:\Users\Jsix\source\repos\ExercicioPropostoException\ExercicioPropostoException\obj\Debug\netcoreapp2.1\ExercicioPropostoException.pdb

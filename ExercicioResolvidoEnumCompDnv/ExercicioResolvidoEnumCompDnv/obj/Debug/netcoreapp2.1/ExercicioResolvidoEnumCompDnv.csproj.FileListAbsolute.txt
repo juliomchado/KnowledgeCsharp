@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\ExercicioResolvidoEnumCompDnv\ExercicioResolvidoEnumCompDnv\bin\Debug\netcoreapp2.1\ExercicioResolvidoEnumCompDnv.deps.json
+C:\Users\Jsix\source\repos\ExercicioResolvidoEnumCompDnv\ExercicioResolvidoEnumCompDnv\bin\Debug\netcoreapp2.1\ExercicioResolvidoEnumCompDnv.runtimeconfig.json
+C:\Users\Jsix\source\repos\ExercicioResolvidoEnumCompDnv\ExercicioResolvidoEnumCompDnv\bin\Debug\netcoreapp2.1\ExercicioResolvidoEnumCompDnv.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ExercicioResolvidoEnumCompDnv\ExercicioResolvidoEnumCompDnv\bin\Debug\netcoreapp2.1\ExercicioResolvidoEnumCompDnv.dll
+C:\Users\Jsix\source\repos\ExercicioResolvidoEnumCompDnv\ExercicioResolvidoEnumCompDnv\bin\Debug\netcoreapp2.1\ExercicioResolvidoEnumCompDnv.pdb
+C:\Users\Jsix\source\repos\ExercicioResolvidoEnumCompDnv\ExercicioResolvidoEnumCompDnv\obj\Debug\netcoreapp2.1\ExercicioResolvidoEnumCompDnv.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ExercicioResolvidoEnumCompDnv\ExercicioResolvidoEnumCompDnv\obj\Debug\netcoreapp2.1\ExercicioResolvidoEnumCompDnv.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\ExercicioResolvidoEnumCompDnv\ExercicioResolvidoEnumCompDnv\obj\Debug\netcoreapp2.1\ExercicioResolvidoEnumCompDnv.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ExercicioResolvidoEnumCompDnv\ExercicioResolvidoEnumCompDnv\obj\Debug\netcoreapp2.1\ExercicioResolvidoEnumCompDnv.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ExercicioResolvidoEnumCompDnv\ExercicioResolvidoEnumCompDnv\obj\Debug\netcoreapp2.1\ExercicioResolvidoEnumCompDnv.dll
+C:\Users\Jsix\source\repos\ExercicioResolvidoEnumCompDnv\ExercicioResolvidoEnumCompDnv\obj\Debug\netcoreapp2.1\ExercicioResolvidoEnumCompDnv.pdb

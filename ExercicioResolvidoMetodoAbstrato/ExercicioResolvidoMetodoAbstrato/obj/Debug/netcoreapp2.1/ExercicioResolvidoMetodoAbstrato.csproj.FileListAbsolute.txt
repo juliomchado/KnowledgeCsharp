@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\ExercicioResolvidoMetodoAbstrato\ExercicioResolvidoMetodoAbstrato\bin\Debug\netcoreapp2.1\ExercicioResolvidoMetodoAbstrato.deps.json
+C:\Users\Jsix\source\repos\ExercicioResolvidoMetodoAbstrato\ExercicioResolvidoMetodoAbstrato\bin\Debug\netcoreapp2.1\ExercicioResolvidoMetodoAbstrato.runtimeconfig.json
+C:\Users\Jsix\source\repos\ExercicioResolvidoMetodoAbstrato\ExercicioResolvidoMetodoAbstrato\bin\Debug\netcoreapp2.1\ExercicioResolvidoMetodoAbstrato.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ExercicioResolvidoMetodoAbstrato\ExercicioResolvidoMetodoAbstrato\bin\Debug\netcoreapp2.1\ExercicioResolvidoMetodoAbstrato.dll
+C:\Users\Jsix\source\repos\ExercicioResolvidoMetodoAbstrato\ExercicioResolvidoMetodoAbstrato\bin\Debug\netcoreapp2.1\ExercicioResolvidoMetodoAbstrato.pdb
+C:\Users\Jsix\source\repos\ExercicioResolvidoMetodoAbstrato\ExercicioResolvidoMetodoAbstrato\obj\Debug\netcoreapp2.1\ExercicioResolvidoMetodoAbstrato.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ExercicioResolvidoMetodoAbstrato\ExercicioResolvidoMetodoAbstrato\obj\Debug\netcoreapp2.1\ExercicioResolvidoMetodoAbstrato.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\ExercicioResolvidoMetodoAbstrato\ExercicioResolvidoMetodoAbstrato\obj\Debug\netcoreapp2.1\ExercicioResolvidoMetodoAbstrato.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ExercicioResolvidoMetodoAbstrato\ExercicioResolvidoMetodoAbstrato\obj\Debug\netcoreapp2.1\ExercicioResolvidoMetodoAbstrato.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ExercicioResolvidoMetodoAbstrato\ExercicioResolvidoMetodoAbstrato\obj\Debug\netcoreapp2.1\ExercicioResolvidoMetodoAbstrato.dll
+C:\Users\Jsix\source\repos\ExercicioResolvidoMetodoAbstrato\ExercicioResolvidoMetodoAbstrato\obj\Debug\netcoreapp2.1\ExercicioResolvidoMetodoAbstrato.pdb

@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\ExercicioPropostoMetodosAbstrato\ExercicioPropostoMetodosAbstrato\obj\Debug\netcoreapp2.1\ExercicioPropostoMetodosAbstrato.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ExercicioPropostoMetodosAbstrato\ExercicioPropostoMetodosAbstrato\obj\Debug\netcoreapp2.1\ExercicioPropostoMetodosAbstrato.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\ExercicioPropostoMetodosAbstrato\ExercicioPropostoMetodosAbstrato\obj\Debug\netcoreapp2.1\ExercicioPropostoMetodosAbstrato.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ExercicioPropostoMetodosAbstrato\ExercicioPropostoMetodosAbstrato\obj\Debug\netcoreapp2.1\ExercicioPropostoMetodosAbstrato.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ExercicioPropostoMetodosAbstrato\ExercicioPropostoMetodosAbstrato\bin\Debug\netcoreapp2.1\ExercicioPropostoMetodosAbstrato.deps.json
+C:\Users\Jsix\source\repos\ExercicioPropostoMetodosAbstrato\ExercicioPropostoMetodosAbstrato\bin\Debug\netcoreapp2.1\ExercicioPropostoMetodosAbstrato.runtimeconfig.json
+C:\Users\Jsix\source\repos\ExercicioPropostoMetodosAbstrato\ExercicioPropostoMetodosAbstrato\bin\Debug\netcoreapp2.1\ExercicioPropostoMetodosAbstrato.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ExercicioPropostoMetodosAbstrato\ExercicioPropostoMetodosAbstrato\bin\Debug\netcoreapp2.1\ExercicioPropostoMetodosAbstrato.dll
+C:\Users\Jsix\source\repos\ExercicioPropostoMetodosAbstrato\ExercicioPropostoMetodosAbstrato\bin\Debug\netcoreapp2.1\ExercicioPropostoMetodosAbstrato.pdb
+C:\Users\Jsix\source\repos\ExercicioPropostoMetodosAbstrato\ExercicioPropostoMetodosAbstrato\obj\Debug\netcoreapp2.1\ExercicioPropostoMetodosAbstrato.dll
+C:\Users\Jsix\source\repos\ExercicioPropostoMetodosAbstrato\ExercicioPropostoMetodosAbstrato\obj\Debug\netcoreapp2.1\ExercicioPropostoMetodosAbstrato.pdb

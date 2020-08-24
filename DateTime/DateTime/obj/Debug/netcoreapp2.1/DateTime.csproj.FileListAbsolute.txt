@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\DateTime\DateTime\bin\Debug\netcoreapp2.1\DateTime.deps.json
+C:\Users\Jsix\source\repos\DateTime\DateTime\bin\Debug\netcoreapp2.1\DateTime.runtimeconfig.json
+C:\Users\Jsix\source\repos\DateTime\DateTime\bin\Debug\netcoreapp2.1\DateTime.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\DateTime\DateTime\bin\Debug\netcoreapp2.1\DateTime.dll
+C:\Users\Jsix\source\repos\DateTime\DateTime\bin\Debug\netcoreapp2.1\DateTime.pdb
+C:\Users\Jsix\source\repos\DateTime\DateTime\obj\Debug\netcoreapp2.1\DateTime.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\DateTime\DateTime\obj\Debug\netcoreapp2.1\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\DateTime\DateTime\obj\Debug\netcoreapp2.1\DateTime.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\DateTime\DateTime\obj\Debug\netcoreapp2.1\DateTime.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\DateTime\DateTime\obj\Debug\netcoreapp2.1\DateTime.dll
+C:\Users\Jsix\source\repos\DateTime\DateTime\obj\Debug\netcoreapp2.1\DateTime.pdb

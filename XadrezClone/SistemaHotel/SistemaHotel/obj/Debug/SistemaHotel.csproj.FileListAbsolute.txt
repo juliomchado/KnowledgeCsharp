@@ -1,0 +1,9 @@
+C:\Users\Jsix\source\repos\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.exe.config
+C:\Users\Jsix\source\repos\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.exe
+C:\Users\Jsix\source\repos\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.pdb
+C:\Users\Jsix\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Properties.Resources.resources
+C:\Users\Jsix\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.GenerateResource.cache
+C:\Users\Jsix\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.exe
+C:\Users\Jsix\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.pdb
+C:\Users\Jsix\source\repos\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.FrmLogin.resources

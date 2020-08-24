@@ -1,0 +1,34 @@
+C:\Users\Jsix\Documents\Faculdade\Respostas de exercicios\Pastas sln\ExercicioBancoDia2910\ExercicioBancoDia2910\bin\Debug\ExercicioBancoDia2910.exe.config
+C:\Users\Jsix\Documents\Faculdade\Respostas de exercicios\Pastas sln\ExercicioBancoDia2910\ExercicioBancoDia2910\bin\Debug\ExercicioBancoDia2910.exe
+C:\Users\Jsix\Documents\Faculdade\Respostas de exercicios\Pastas sln\ExercicioBancoDia2910\ExercicioBancoDia2910\bin\Debug\ExercicioBancoDia2910.pdb
+C:\Users\Jsix\Documents\Faculdade\Respostas de exercicios\Pastas sln\ExercicioBancoDia2910\ExercicioBancoDia2910\obj\Debug\ExercicioBancoDia2910.csprojAssemblyReference.cache
+C:\Users\Jsix\Documents\Faculdade\Respostas de exercicios\Pastas sln\ExercicioBancoDia2910\ExercicioBancoDia2910\obj\Debug\ExercicioBancoDia2910.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\Documents\Faculdade\Respostas de exercicios\Pastas sln\ExercicioBancoDia2910\ExercicioBancoDia2910\obj\Debug\ExercicioBancoDia2910.exe
+C:\Users\Jsix\Documents\Faculdade\Respostas de exercicios\Pastas sln\ExercicioBancoDia2910\ExercicioBancoDia2910\obj\Debug\ExercicioBancoDia2910.pdb
+C:\Users\alunos\Desktop\ExercicioBancoDia2910\ExercicioBancoDia2910\bin\Debug\ExercicioBancoDia2910.exe.config
+C:\Users\alunos\Desktop\ExercicioBancoDia2910\ExercicioBancoDia2910\bin\Debug\ExercicioBancoDia2910.exe
+C:\Users\alunos\Desktop\ExercicioBancoDia2910\ExercicioBancoDia2910\bin\Debug\ExercicioBancoDia2910.pdb
+C:\Users\alunos\Desktop\ExercicioBancoDia2910\ExercicioBancoDia2910\obj\Debug\ExercicioBancoDia2910.csprojAssemblyReference.cache
+C:\Users\alunos\Desktop\ExercicioBancoDia2910\ExercicioBancoDia2910\obj\Debug\ExercicioBancoDia2910.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\ExercicioBancoDia2910\ExercicioBancoDia2910\obj\Debug\ExercicioBancoDia2910.exe
+C:\Users\alunos\Desktop\ExercicioBancoDia2910\ExercicioBancoDia2910\obj\Debug\ExercicioBancoDia2910.pdb
+D:\Projetos C#\ExercicioBancoDia2910\bin\Debug\ExercicioBancoDia2910.exe.config
+D:\Projetos C#\ExercicioBancoDia2910\bin\Debug\ExercicioBancoDia2910.exe
+D:\Projetos C#\ExercicioBancoDia2910\bin\Debug\ExercicioBancoDia2910.pdb
+D:\Projetos C#\ExercicioBancoDia2910\obj\Debug\ExercicioBancoDia2910.csprojAssemblyReference.cache
+D:\Projetos C#\ExercicioBancoDia2910\obj\Debug\ExercicioBancoDia2910.csproj.CoreCompileInputs.cache
+D:\Projetos C#\ExercicioBancoDia2910\obj\Debug\ExercicioBancoDia2910.exe
+D:\Projetos C#\ExercicioBancoDia2910\obj\Debug\ExercicioBancoDia2910.pdb
+C:\Users\alunos\Desktop\julio\ExercicioBancoDia2910\bin\Debug\ExercicioBancoDia2910.exe.config
+C:\Users\alunos\Desktop\julio\ExercicioBancoDia2910\bin\Debug\ExercicioBancoDia2910.exe
+C:\Users\alunos\Desktop\julio\ExercicioBancoDia2910\bin\Debug\ExercicioBancoDia2910.pdb
+C:\Users\alunos\Desktop\julio\ExercicioBancoDia2910\obj\Debug\ExercicioBancoDia2910.csprojAssemblyReference.cache
+C:\Users\alunos\Desktop\julio\ExercicioBancoDia2910\obj\Debug\ExercicioBancoDia2910.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\julio\ExercicioBancoDia2910\obj\Debug\ExercicioBancoDia2910.exe
+C:\Users\alunos\Desktop\julio\ExercicioBancoDia2910\obj\Debug\ExercicioBancoDia2910.pdb
+C:\Users\Jsix\source\repos\ExercicioBanco_Julio\ExercicioBancoDia2910\bin\Debug\ExercicioBancoDia2910.exe.config
+C:\Users\Jsix\source\repos\ExercicioBanco_Julio\ExercicioBancoDia2910\bin\Debug\ExercicioBancoDia2910.exe
+C:\Users\Jsix\source\repos\ExercicioBanco_Julio\ExercicioBancoDia2910\bin\Debug\ExercicioBancoDia2910.pdb
+C:\Users\Jsix\source\repos\ExercicioBanco_Julio\ExercicioBancoDia2910\obj\Debug\ExercicioBancoDia2910.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ExercicioBanco_Julio\ExercicioBancoDia2910\obj\Debug\ExercicioBancoDia2910.exe
+C:\Users\Jsix\source\repos\ExercicioBanco_Julio\ExercicioBancoDia2910\obj\Debug\ExercicioBancoDia2910.pdb

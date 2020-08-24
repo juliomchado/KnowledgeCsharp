@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\Solucao3MembrosEstaticos2\Solucao3MembrosEstaticos2\bin\Debug\netcoreapp2.1\Solucao3MembrosEstaticos2.deps.json
+C:\Users\Jsix\source\repos\Solucao3MembrosEstaticos2\Solucao3MembrosEstaticos2\bin\Debug\netcoreapp2.1\Solucao3MembrosEstaticos2.runtimeconfig.json
+C:\Users\Jsix\source\repos\Solucao3MembrosEstaticos2\Solucao3MembrosEstaticos2\bin\Debug\netcoreapp2.1\Solucao3MembrosEstaticos2.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\Solucao3MembrosEstaticos2\Solucao3MembrosEstaticos2\bin\Debug\netcoreapp2.1\Solucao3MembrosEstaticos2.dll
+C:\Users\Jsix\source\repos\Solucao3MembrosEstaticos2\Solucao3MembrosEstaticos2\bin\Debug\netcoreapp2.1\Solucao3MembrosEstaticos2.pdb
+C:\Users\Jsix\source\repos\Solucao3MembrosEstaticos2\Solucao3MembrosEstaticos2\obj\Debug\netcoreapp2.1\Solucao3MembrosEstaticos2.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\Solucao3MembrosEstaticos2\Solucao3MembrosEstaticos2\obj\Debug\netcoreapp2.1\Solucao3MembrosEstaticos2.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\Solucao3MembrosEstaticos2\Solucao3MembrosEstaticos2\obj\Debug\netcoreapp2.1\Solucao3MembrosEstaticos2.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\Solucao3MembrosEstaticos2\Solucao3MembrosEstaticos2\obj\Debug\netcoreapp2.1\Solucao3MembrosEstaticos2.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\Solucao3MembrosEstaticos2\Solucao3MembrosEstaticos2\obj\Debug\netcoreapp2.1\Solucao3MembrosEstaticos2.dll
+C:\Users\Jsix\source\repos\Solucao3MembrosEstaticos2\Solucao3MembrosEstaticos2\obj\Debug\netcoreapp2.1\Solucao3MembrosEstaticos2.pdb

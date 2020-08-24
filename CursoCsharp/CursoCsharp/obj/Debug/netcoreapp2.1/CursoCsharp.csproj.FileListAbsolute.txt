@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\CursoCsharp\CursoCsharp\bin\Debug\netcoreapp2.1\CursoCsharp.deps.json
+C:\Users\Jsix\source\repos\CursoCsharp\CursoCsharp\bin\Debug\netcoreapp2.1\CursoCsharp.runtimeconfig.json
+C:\Users\Jsix\source\repos\CursoCsharp\CursoCsharp\bin\Debug\netcoreapp2.1\CursoCsharp.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\CursoCsharp\CursoCsharp\bin\Debug\netcoreapp2.1\CursoCsharp.dll
+C:\Users\Jsix\source\repos\CursoCsharp\CursoCsharp\bin\Debug\netcoreapp2.1\CursoCsharp.pdb
+C:\Users\Jsix\source\repos\CursoCsharp\CursoCsharp\obj\Debug\netcoreapp2.1\CursoCsharp.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\CursoCsharp\CursoCsharp\obj\Debug\netcoreapp2.1\CursoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\CursoCsharp\CursoCsharp\obj\Debug\netcoreapp2.1\CursoCsharp.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\CursoCsharp\CursoCsharp\obj\Debug\netcoreapp2.1\CursoCsharp.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\CursoCsharp\CursoCsharp\obj\Debug\netcoreapp2.1\CursoCsharp.dll
+C:\Users\Jsix\source\repos\CursoCsharp\CursoCsharp\obj\Debug\netcoreapp2.1\CursoCsharp.pdb

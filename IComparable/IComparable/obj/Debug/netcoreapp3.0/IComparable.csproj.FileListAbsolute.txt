@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\IComparable\IComparable\bin\Debug\netcoreapp3.0\IComparable.exe
+C:\Users\Jsix\source\repos\IComparable\IComparable\bin\Debug\netcoreapp3.0\IComparable.deps.json
+C:\Users\Jsix\source\repos\IComparable\IComparable\bin\Debug\netcoreapp3.0\IComparable.runtimeconfig.json
+C:\Users\Jsix\source\repos\IComparable\IComparable\bin\Debug\netcoreapp3.0\IComparable.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\IComparable\IComparable\bin\Debug\netcoreapp3.0\IComparable.dll
+C:\Users\Jsix\source\repos\IComparable\IComparable\bin\Debug\netcoreapp3.0\IComparable.pdb
+C:\Users\Jsix\source\repos\IComparable\IComparable\obj\Debug\netcoreapp3.0\IComparable.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\IComparable\IComparable\obj\Debug\netcoreapp3.0\IComparable.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\IComparable\IComparable\obj\Debug\netcoreapp3.0\IComparable.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\IComparable\IComparable\obj\Debug\netcoreapp3.0\IComparable.dll
+C:\Users\Jsix\source\repos\IComparable\IComparable\obj\Debug\netcoreapp3.0\IComparable.pdb

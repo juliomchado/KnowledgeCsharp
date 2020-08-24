@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp2.1\EstruturaWhile.deps.json
+C:\Users\Jsix\source\repos\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp2.1\EstruturaWhile.runtimeconfig.json
+C:\Users\Jsix\source\repos\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp2.1\EstruturaWhile.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp2.1\EstruturaWhile.dll
+C:\Users\Jsix\source\repos\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp2.1\EstruturaWhile.pdb
+C:\Users\Jsix\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp2.1\EstruturaWhile.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp2.1\EstruturaWhile.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp2.1\EstruturaWhile.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp2.1\EstruturaWhile.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp2.1\EstruturaWhile.dll
+C:\Users\Jsix\source\repos\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp2.1\EstruturaWhile.pdb

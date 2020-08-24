@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\ExercicioStaticos\ExercicioStaticos\bin\Debug\netcoreapp2.1\ExercicioStaticos.deps.json
+C:\Users\Jsix\source\repos\ExercicioStaticos\ExercicioStaticos\bin\Debug\netcoreapp2.1\ExercicioStaticos.runtimeconfig.json
+C:\Users\Jsix\source\repos\ExercicioStaticos\ExercicioStaticos\bin\Debug\netcoreapp2.1\ExercicioStaticos.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ExercicioStaticos\ExercicioStaticos\bin\Debug\netcoreapp2.1\ExercicioStaticos.dll
+C:\Users\Jsix\source\repos\ExercicioStaticos\ExercicioStaticos\bin\Debug\netcoreapp2.1\ExercicioStaticos.pdb
+C:\Users\Jsix\source\repos\ExercicioStaticos\ExercicioStaticos\obj\Debug\netcoreapp2.1\ExercicioStaticos.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ExercicioStaticos\ExercicioStaticos\obj\Debug\netcoreapp2.1\ExercicioStaticos.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\ExercicioStaticos\ExercicioStaticos\obj\Debug\netcoreapp2.1\ExercicioStaticos.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ExercicioStaticos\ExercicioStaticos\obj\Debug\netcoreapp2.1\ExercicioStaticos.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ExercicioStaticos\ExercicioStaticos\obj\Debug\netcoreapp2.1\ExercicioStaticos.dll
+C:\Users\Jsix\source\repos\ExercicioStaticos\ExercicioStaticos\obj\Debug\netcoreapp2.1\ExercicioStaticos.pdb

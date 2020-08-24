@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\ExercicioSemOrientadoaObjeto\ExercicioSemOrientadoaObjeto\bin\Debug\netcoreapp2.1\ExercicioSemOrientadoaObjeto.deps.json
+C:\Users\Jsix\source\repos\ExercicioSemOrientadoaObjeto\ExercicioSemOrientadoaObjeto\bin\Debug\netcoreapp2.1\ExercicioSemOrientadoaObjeto.runtimeconfig.json
+C:\Users\Jsix\source\repos\ExercicioSemOrientadoaObjeto\ExercicioSemOrientadoaObjeto\bin\Debug\netcoreapp2.1\ExercicioSemOrientadoaObjeto.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ExercicioSemOrientadoaObjeto\ExercicioSemOrientadoaObjeto\bin\Debug\netcoreapp2.1\ExercicioSemOrientadoaObjeto.dll
+C:\Users\Jsix\source\repos\ExercicioSemOrientadoaObjeto\ExercicioSemOrientadoaObjeto\bin\Debug\netcoreapp2.1\ExercicioSemOrientadoaObjeto.pdb
+C:\Users\Jsix\source\repos\ExercicioSemOrientadoaObjeto\ExercicioSemOrientadoaObjeto\obj\Debug\netcoreapp2.1\ExercicioSemOrientadoaObjeto.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ExercicioSemOrientadoaObjeto\ExercicioSemOrientadoaObjeto\obj\Debug\netcoreapp2.1\ExercicioSemOrientadoaObjeto.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\ExercicioSemOrientadoaObjeto\ExercicioSemOrientadoaObjeto\obj\Debug\netcoreapp2.1\ExercicioSemOrientadoaObjeto.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ExercicioSemOrientadoaObjeto\ExercicioSemOrientadoaObjeto\obj\Debug\netcoreapp2.1\ExercicioSemOrientadoaObjeto.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ExercicioSemOrientadoaObjeto\ExercicioSemOrientadoaObjeto\obj\Debug\netcoreapp2.1\ExercicioSemOrientadoaObjeto.dll
+C:\Users\Jsix\source\repos\ExercicioSemOrientadoaObjeto\ExercicioSemOrientadoaObjeto\obj\Debug\netcoreapp2.1\ExercicioSemOrientadoaObjeto.pdb

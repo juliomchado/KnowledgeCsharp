@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\ExercicioFaculDupla\ExercicioFaculDupla\obj\Debug\netcoreapp2.1\ExercicioFaculDupla.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ExercicioFaculDupla\ExercicioFaculDupla\obj\Debug\netcoreapp2.1\ExercicioFaculDupla.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\ExercicioFaculDupla\ExercicioFaculDupla\obj\Debug\netcoreapp2.1\ExercicioFaculDupla.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ExercicioFaculDupla\ExercicioFaculDupla\obj\Debug\netcoreapp2.1\ExercicioFaculDupla.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ExercicioFaculDupla\ExercicioFaculDupla\bin\Debug\netcoreapp2.1\ExercicioFaculDupla.deps.json
+C:\Users\Jsix\source\repos\ExercicioFaculDupla\ExercicioFaculDupla\bin\Debug\netcoreapp2.1\ExercicioFaculDupla.runtimeconfig.json
+C:\Users\Jsix\source\repos\ExercicioFaculDupla\ExercicioFaculDupla\bin\Debug\netcoreapp2.1\ExercicioFaculDupla.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ExercicioFaculDupla\ExercicioFaculDupla\bin\Debug\netcoreapp2.1\ExercicioFaculDupla.dll
+C:\Users\Jsix\source\repos\ExercicioFaculDupla\ExercicioFaculDupla\bin\Debug\netcoreapp2.1\ExercicioFaculDupla.pdb
+C:\Users\Jsix\source\repos\ExercicioFaculDupla\ExercicioFaculDupla\obj\Debug\netcoreapp2.1\ExercicioFaculDupla.dll
+C:\Users\Jsix\source\repos\ExercicioFaculDupla\ExercicioFaculDupla\obj\Debug\netcoreapp2.1\ExercicioFaculDupla.pdb

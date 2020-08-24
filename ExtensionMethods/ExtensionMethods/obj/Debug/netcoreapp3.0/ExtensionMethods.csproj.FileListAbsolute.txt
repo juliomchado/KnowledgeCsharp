@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.0\ExtensionMethods.exe
+C:\Users\Jsix\source\repos\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.0\ExtensionMethods.deps.json
+C:\Users\Jsix\source\repos\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.0\ExtensionMethods.runtimeconfig.json
+C:\Users\Jsix\source\repos\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.0\ExtensionMethods.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.0\ExtensionMethods.dll
+C:\Users\Jsix\source\repos\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.0\ExtensionMethods.pdb
+C:\Users\Jsix\source\repos\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.0\ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.0\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.0\ExtensionMethods.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.0\ExtensionMethods.dll
+C:\Users\Jsix\source\repos\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.0\ExtensionMethods.pdb

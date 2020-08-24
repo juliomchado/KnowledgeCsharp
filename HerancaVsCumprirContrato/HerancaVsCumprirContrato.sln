@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerancaVsCumprirContrato", "HerancaVsCumprirContrato\HerancaVsCumprirContrato.csproj", "{42012F61-EBA3-4D6C-8950-15036743517B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42012F61-EBA3-4D6C-8950-15036743517B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42012F61-EBA3-4D6C-8950-15036743517B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42012F61-EBA3-4D6C-8950-15036743517B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42012F61-EBA3-4D6C-8950-15036743517B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BFE4F84-8303-4D41-A7EE-D3D938719A4C}
+	EndGlobalSection
+EndGlobal

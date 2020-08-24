@@ -1,0 +1,10 @@
+C:\Users\Jsix\source\repos\BlocoUsing\BlocoUsing\bin\Debug\netcoreapp3.0\BlocoUsing.exe
+C:\Users\Jsix\source\repos\BlocoUsing\BlocoUsing\bin\Debug\netcoreapp3.0\BlocoUsing.deps.json
+C:\Users\Jsix\source\repos\BlocoUsing\BlocoUsing\bin\Debug\netcoreapp3.0\BlocoUsing.runtimeconfig.json
+C:\Users\Jsix\source\repos\BlocoUsing\BlocoUsing\bin\Debug\netcoreapp3.0\BlocoUsing.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\BlocoUsing\BlocoUsing\bin\Debug\netcoreapp3.0\BlocoUsing.dll
+C:\Users\Jsix\source\repos\BlocoUsing\BlocoUsing\bin\Debug\netcoreapp3.0\BlocoUsing.pdb
+C:\Users\Jsix\source\repos\BlocoUsing\BlocoUsing\obj\Debug\netcoreapp3.0\BlocoUsing.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\BlocoUsing\BlocoUsing\obj\Debug\netcoreapp3.0\BlocoUsing.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\BlocoUsing\BlocoUsing\obj\Debug\netcoreapp3.0\BlocoUsing.dll
+C:\Users\Jsix\source\repos\BlocoUsing\BlocoUsing\obj\Debug\netcoreapp3.0\BlocoUsing.pdb

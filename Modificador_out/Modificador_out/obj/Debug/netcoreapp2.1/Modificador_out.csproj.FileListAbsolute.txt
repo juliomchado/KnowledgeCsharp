@@ -1,0 +1,10 @@
+C:\Users\Jsix\source\repos\Modificador_out\Modificador_out\bin\Debug\netcoreapp2.1\Modificador_out.deps.json
+C:\Users\Jsix\source\repos\Modificador_out\Modificador_out\bin\Debug\netcoreapp2.1\Modificador_out.runtimeconfig.json
+C:\Users\Jsix\source\repos\Modificador_out\Modificador_out\bin\Debug\netcoreapp2.1\Modificador_out.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\Modificador_out\Modificador_out\bin\Debug\netcoreapp2.1\Modificador_out.dll
+C:\Users\Jsix\source\repos\Modificador_out\Modificador_out\bin\Debug\netcoreapp2.1\Modificador_out.pdb
+C:\Users\Jsix\source\repos\Modificador_out\Modificador_out\obj\Debug\netcoreapp2.1\Modificador_out.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\Modificador_out\Modificador_out\obj\Debug\netcoreapp2.1\Modificador_out.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\Modificador_out\Modificador_out\obj\Debug\netcoreapp2.1\Modificador_out.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\Modificador_out\Modificador_out\obj\Debug\netcoreapp2.1\Modificador_out.dll
+C:\Users\Jsix\source\repos\Modificador_out\Modificador_out\obj\Debug\netcoreapp2.1\Modificador_out.pdb

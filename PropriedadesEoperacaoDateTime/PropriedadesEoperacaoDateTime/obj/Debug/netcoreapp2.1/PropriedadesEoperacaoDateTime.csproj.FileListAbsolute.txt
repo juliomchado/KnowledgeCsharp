@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\PropriedadesEoperacaoDateTime\PropriedadesEoperacaoDateTime\bin\Debug\netcoreapp2.1\PropriedadesEoperacaoDateTime.deps.json
+C:\Users\Jsix\source\repos\PropriedadesEoperacaoDateTime\PropriedadesEoperacaoDateTime\bin\Debug\netcoreapp2.1\PropriedadesEoperacaoDateTime.runtimeconfig.json
+C:\Users\Jsix\source\repos\PropriedadesEoperacaoDateTime\PropriedadesEoperacaoDateTime\bin\Debug\netcoreapp2.1\PropriedadesEoperacaoDateTime.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\PropriedadesEoperacaoDateTime\PropriedadesEoperacaoDateTime\bin\Debug\netcoreapp2.1\PropriedadesEoperacaoDateTime.dll
+C:\Users\Jsix\source\repos\PropriedadesEoperacaoDateTime\PropriedadesEoperacaoDateTime\bin\Debug\netcoreapp2.1\PropriedadesEoperacaoDateTime.pdb
+C:\Users\Jsix\source\repos\PropriedadesEoperacaoDateTime\PropriedadesEoperacaoDateTime\obj\Debug\netcoreapp2.1\PropriedadesEoperacaoDateTime.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\PropriedadesEoperacaoDateTime\PropriedadesEoperacaoDateTime\obj\Debug\netcoreapp2.1\PropriedadesEoperacaoDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\PropriedadesEoperacaoDateTime\PropriedadesEoperacaoDateTime\obj\Debug\netcoreapp2.1\PropriedadesEoperacaoDateTime.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\PropriedadesEoperacaoDateTime\PropriedadesEoperacaoDateTime\obj\Debug\netcoreapp2.1\PropriedadesEoperacaoDateTime.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\PropriedadesEoperacaoDateTime\PropriedadesEoperacaoDateTime\obj\Debug\netcoreapp2.1\PropriedadesEoperacaoDateTime.dll
+C:\Users\Jsix\source\repos\PropriedadesEoperacaoDateTime\PropriedadesEoperacaoDateTime\obj\Debug\netcoreapp2.1\PropriedadesEoperacaoDateTime.pdb

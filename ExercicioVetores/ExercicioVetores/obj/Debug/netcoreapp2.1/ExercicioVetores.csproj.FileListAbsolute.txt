@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\ExercicioVetores\ExercicioVetores\obj\Debug\netcoreapp2.1\ExercicioVetores.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ExercicioVetores\ExercicioVetores\obj\Debug\netcoreapp2.1\ExercicioVetores.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\ExercicioVetores\ExercicioVetores\obj\Debug\netcoreapp2.1\ExercicioVetores.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ExercicioVetores\ExercicioVetores\obj\Debug\netcoreapp2.1\ExercicioVetores.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ExercicioVetores\ExercicioVetores\bin\Debug\netcoreapp2.1\ExercicioVetores.deps.json
+C:\Users\Jsix\source\repos\ExercicioVetores\ExercicioVetores\bin\Debug\netcoreapp2.1\ExercicioVetores.runtimeconfig.json
+C:\Users\Jsix\source\repos\ExercicioVetores\ExercicioVetores\bin\Debug\netcoreapp2.1\ExercicioVetores.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ExercicioVetores\ExercicioVetores\bin\Debug\netcoreapp2.1\ExercicioVetores.dll
+C:\Users\Jsix\source\repos\ExercicioVetores\ExercicioVetores\bin\Debug\netcoreapp2.1\ExercicioVetores.pdb
+C:\Users\Jsix\source\repos\ExercicioVetores\ExercicioVetores\obj\Debug\netcoreapp2.1\ExercicioVetores.dll
+C:\Users\Jsix\source\repos\ExercicioVetores\ExercicioVetores\obj\Debug\netcoreapp2.1\ExercicioVetores.pdb

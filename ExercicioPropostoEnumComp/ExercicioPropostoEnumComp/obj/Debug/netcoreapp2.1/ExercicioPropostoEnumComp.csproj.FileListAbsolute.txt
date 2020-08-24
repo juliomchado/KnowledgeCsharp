@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\ExercicioPropostoEnumComp\ExercicioPropostoEnumComp\obj\Debug\netcoreapp2.1\ExercicioPropostoEnumComp.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ExercicioPropostoEnumComp\ExercicioPropostoEnumComp\obj\Debug\netcoreapp2.1\ExercicioPropostoEnumComp.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\ExercicioPropostoEnumComp\ExercicioPropostoEnumComp\obj\Debug\netcoreapp2.1\ExercicioPropostoEnumComp.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ExercicioPropostoEnumComp\ExercicioPropostoEnumComp\obj\Debug\netcoreapp2.1\ExercicioPropostoEnumComp.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ExercicioPropostoEnumComp\ExercicioPropostoEnumComp\bin\Debug\netcoreapp2.1\ExercicioPropostoEnumComp.deps.json
+C:\Users\Jsix\source\repos\ExercicioPropostoEnumComp\ExercicioPropostoEnumComp\bin\Debug\netcoreapp2.1\ExercicioPropostoEnumComp.runtimeconfig.json
+C:\Users\Jsix\source\repos\ExercicioPropostoEnumComp\ExercicioPropostoEnumComp\bin\Debug\netcoreapp2.1\ExercicioPropostoEnumComp.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ExercicioPropostoEnumComp\ExercicioPropostoEnumComp\bin\Debug\netcoreapp2.1\ExercicioPropostoEnumComp.dll
+C:\Users\Jsix\source\repos\ExercicioPropostoEnumComp\ExercicioPropostoEnumComp\bin\Debug\netcoreapp2.1\ExercicioPropostoEnumComp.pdb
+C:\Users\Jsix\source\repos\ExercicioPropostoEnumComp\ExercicioPropostoEnumComp\obj\Debug\netcoreapp2.1\ExercicioPropostoEnumComp.dll
+C:\Users\Jsix\source\repos\ExercicioPropostoEnumComp\ExercicioPropostoEnumComp\obj\Debug\netcoreapp2.1\ExercicioPropostoEnumComp.pdb

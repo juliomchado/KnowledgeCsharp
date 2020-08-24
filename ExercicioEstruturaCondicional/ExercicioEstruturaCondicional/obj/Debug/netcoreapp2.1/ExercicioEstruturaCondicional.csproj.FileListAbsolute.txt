@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\ExercicioEstruturaCondicional\ExercicioEstruturaCondicional\bin\Debug\netcoreapp2.1\ExercicioEstruturaCondicional.deps.json
+C:\Users\Jsix\source\repos\ExercicioEstruturaCondicional\ExercicioEstruturaCondicional\bin\Debug\netcoreapp2.1\ExercicioEstruturaCondicional.runtimeconfig.json
+C:\Users\Jsix\source\repos\ExercicioEstruturaCondicional\ExercicioEstruturaCondicional\bin\Debug\netcoreapp2.1\ExercicioEstruturaCondicional.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ExercicioEstruturaCondicional\ExercicioEstruturaCondicional\bin\Debug\netcoreapp2.1\ExercicioEstruturaCondicional.dll
+C:\Users\Jsix\source\repos\ExercicioEstruturaCondicional\ExercicioEstruturaCondicional\bin\Debug\netcoreapp2.1\ExercicioEstruturaCondicional.pdb
+C:\Users\Jsix\source\repos\ExercicioEstruturaCondicional\ExercicioEstruturaCondicional\obj\Debug\netcoreapp2.1\ExercicioEstruturaCondicional.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ExercicioEstruturaCondicional\ExercicioEstruturaCondicional\obj\Debug\netcoreapp2.1\ExercicioEstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\ExercicioEstruturaCondicional\ExercicioEstruturaCondicional\obj\Debug\netcoreapp2.1\ExercicioEstruturaCondicional.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ExercicioEstruturaCondicional\ExercicioEstruturaCondicional\obj\Debug\netcoreapp2.1\ExercicioEstruturaCondicional.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ExercicioEstruturaCondicional\ExercicioEstruturaCondicional\obj\Debug\netcoreapp2.1\ExercicioEstruturaCondicional.dll
+C:\Users\Jsix\source\repos\ExercicioEstruturaCondicional\ExercicioEstruturaCondicional\obj\Debug\netcoreapp2.1\ExercicioEstruturaCondicional.pdb

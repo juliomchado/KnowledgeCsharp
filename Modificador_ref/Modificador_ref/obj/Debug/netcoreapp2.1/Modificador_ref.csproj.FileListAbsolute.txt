@@ -1,0 +1,10 @@
+C:\Users\Jsix\source\repos\Modificador_ref\Modificador_ref\bin\Debug\netcoreapp2.1\Modificador_ref.deps.json
+C:\Users\Jsix\source\repos\Modificador_ref\Modificador_ref\bin\Debug\netcoreapp2.1\Modificador_ref.runtimeconfig.json
+C:\Users\Jsix\source\repos\Modificador_ref\Modificador_ref\bin\Debug\netcoreapp2.1\Modificador_ref.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\Modificador_ref\Modificador_ref\bin\Debug\netcoreapp2.1\Modificador_ref.dll
+C:\Users\Jsix\source\repos\Modificador_ref\Modificador_ref\bin\Debug\netcoreapp2.1\Modificador_ref.pdb
+C:\Users\Jsix\source\repos\Modificador_ref\Modificador_ref\obj\Debug\netcoreapp2.1\Modificador_ref.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\Modificador_ref\Modificador_ref\obj\Debug\netcoreapp2.1\Modificador_ref.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\Modificador_ref\Modificador_ref\obj\Debug\netcoreapp2.1\Modificador_ref.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\Modificador_ref\Modificador_ref\obj\Debug\netcoreapp2.1\Modificador_ref.dll
+C:\Users\Jsix\source\repos\Modificador_ref\Modificador_ref\obj\Debug\netcoreapp2.1\Modificador_ref.pdb

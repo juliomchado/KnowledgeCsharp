@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\ExercicioResolvidoDelegateLinq\ExercicioResolvidoDelegateLinq\bin\Debug\netcoreapp3.1\ExercicioResolvidoDelegateLinq.exe
+C:\Users\Jsix\source\repos\ExercicioResolvidoDelegateLinq\ExercicioResolvidoDelegateLinq\bin\Debug\netcoreapp3.1\ExercicioResolvidoDelegateLinq.deps.json
+C:\Users\Jsix\source\repos\ExercicioResolvidoDelegateLinq\ExercicioResolvidoDelegateLinq\bin\Debug\netcoreapp3.1\ExercicioResolvidoDelegateLinq.runtimeconfig.json
+C:\Users\Jsix\source\repos\ExercicioResolvidoDelegateLinq\ExercicioResolvidoDelegateLinq\bin\Debug\netcoreapp3.1\ExercicioResolvidoDelegateLinq.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ExercicioResolvidoDelegateLinq\ExercicioResolvidoDelegateLinq\bin\Debug\netcoreapp3.1\ExercicioResolvidoDelegateLinq.dll
+C:\Users\Jsix\source\repos\ExercicioResolvidoDelegateLinq\ExercicioResolvidoDelegateLinq\bin\Debug\netcoreapp3.1\ExercicioResolvidoDelegateLinq.pdb
+C:\Users\Jsix\source\repos\ExercicioResolvidoDelegateLinq\ExercicioResolvidoDelegateLinq\obj\Debug\netcoreapp3.1\ExercicioResolvidoDelegateLinq.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ExercicioResolvidoDelegateLinq\ExercicioResolvidoDelegateLinq\obj\Debug\netcoreapp3.1\ExercicioResolvidoDelegateLinq.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ExercicioResolvidoDelegateLinq\ExercicioResolvidoDelegateLinq\obj\Debug\netcoreapp3.1\ExercicioResolvidoDelegateLinq.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ExercicioResolvidoDelegateLinq\ExercicioResolvidoDelegateLinq\obj\Debug\netcoreapp3.1\ExercicioResolvidoDelegateLinq.dll
+C:\Users\Jsix\source\repos\ExercicioResolvidoDelegateLinq\ExercicioResolvidoDelegateLinq\obj\Debug\netcoreapp3.1\ExercicioResolvidoDelegateLinq.pdb

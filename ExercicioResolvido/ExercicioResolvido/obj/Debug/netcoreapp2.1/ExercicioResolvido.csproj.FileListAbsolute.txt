@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\ExercicioResolvido\ExercicioResolvido\bin\Debug\netcoreapp2.1\ExercicioResolvido.deps.json
+C:\Users\Jsix\source\repos\ExercicioResolvido\ExercicioResolvido\bin\Debug\netcoreapp2.1\ExercicioResolvido.runtimeconfig.json
+C:\Users\Jsix\source\repos\ExercicioResolvido\ExercicioResolvido\bin\Debug\netcoreapp2.1\ExercicioResolvido.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ExercicioResolvido\ExercicioResolvido\bin\Debug\netcoreapp2.1\ExercicioResolvido.dll
+C:\Users\Jsix\source\repos\ExercicioResolvido\ExercicioResolvido\bin\Debug\netcoreapp2.1\ExercicioResolvido.pdb
+C:\Users\Jsix\source\repos\ExercicioResolvido\ExercicioResolvido\obj\Debug\netcoreapp2.1\ExercicioResolvido.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ExercicioResolvido\ExercicioResolvido\obj\Debug\netcoreapp2.1\ExercicioResolvido.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\ExercicioResolvido\ExercicioResolvido\obj\Debug\netcoreapp2.1\ExercicioResolvido.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ExercicioResolvido\ExercicioResolvido\obj\Debug\netcoreapp2.1\ExercicioResolvido.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ExercicioResolvido\ExercicioResolvido\obj\Debug\netcoreapp2.1\ExercicioResolvido.dll
+C:\Users\Jsix\source\repos\ExercicioResolvido\ExercicioResolvido\obj\Debug\netcoreapp2.1\ExercicioResolvido.pdb

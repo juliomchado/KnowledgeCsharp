@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\ModificacoesExercicioDia11do11\ModificacoesExercicioDia11do11\bin\Debug\netcoreapp2.1\ModificacoesExercicioDia11do11.deps.json
+C:\Users\Jsix\source\repos\ModificacoesExercicioDia11do11\ModificacoesExercicioDia11do11\bin\Debug\netcoreapp2.1\ModificacoesExercicioDia11do11.runtimeconfig.json
+C:\Users\Jsix\source\repos\ModificacoesExercicioDia11do11\ModificacoesExercicioDia11do11\bin\Debug\netcoreapp2.1\ModificacoesExercicioDia11do11.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ModificacoesExercicioDia11do11\ModificacoesExercicioDia11do11\bin\Debug\netcoreapp2.1\ModificacoesExercicioDia11do11.dll
+C:\Users\Jsix\source\repos\ModificacoesExercicioDia11do11\ModificacoesExercicioDia11do11\bin\Debug\netcoreapp2.1\ModificacoesExercicioDia11do11.pdb
+C:\Users\Jsix\source\repos\ModificacoesExercicioDia11do11\ModificacoesExercicioDia11do11\obj\Debug\netcoreapp2.1\ModificacoesExercicioDia11do11.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ModificacoesExercicioDia11do11\ModificacoesExercicioDia11do11\obj\Debug\netcoreapp2.1\ModificacoesExercicioDia11do11.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\ModificacoesExercicioDia11do11\ModificacoesExercicioDia11do11\obj\Debug\netcoreapp2.1\ModificacoesExercicioDia11do11.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ModificacoesExercicioDia11do11\ModificacoesExercicioDia11do11\obj\Debug\netcoreapp2.1\ModificacoesExercicioDia11do11.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ModificacoesExercicioDia11do11\ModificacoesExercicioDia11do11\obj\Debug\netcoreapp2.1\ModificacoesExercicioDia11do11.dll
+C:\Users\Jsix\source\repos\ModificacoesExercicioDia11do11\ModificacoesExercicioDia11do11\obj\Debug\netcoreapp2.1\ModificacoesExercicioDia11do11.pdb

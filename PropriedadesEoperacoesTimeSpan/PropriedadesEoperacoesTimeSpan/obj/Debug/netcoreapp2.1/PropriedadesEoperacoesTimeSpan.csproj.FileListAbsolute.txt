@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\PropriedadesEoperacoesTimeSpan\PropriedadesEoperacoesTimeSpan\bin\Debug\netcoreapp2.1\PropriedadesEoperacoesTimeSpan.deps.json
+C:\Users\Jsix\source\repos\PropriedadesEoperacoesTimeSpan\PropriedadesEoperacoesTimeSpan\bin\Debug\netcoreapp2.1\PropriedadesEoperacoesTimeSpan.runtimeconfig.json
+C:\Users\Jsix\source\repos\PropriedadesEoperacoesTimeSpan\PropriedadesEoperacoesTimeSpan\bin\Debug\netcoreapp2.1\PropriedadesEoperacoesTimeSpan.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\PropriedadesEoperacoesTimeSpan\PropriedadesEoperacoesTimeSpan\bin\Debug\netcoreapp2.1\PropriedadesEoperacoesTimeSpan.dll
+C:\Users\Jsix\source\repos\PropriedadesEoperacoesTimeSpan\PropriedadesEoperacoesTimeSpan\bin\Debug\netcoreapp2.1\PropriedadesEoperacoesTimeSpan.pdb
+C:\Users\Jsix\source\repos\PropriedadesEoperacoesTimeSpan\PropriedadesEoperacoesTimeSpan\obj\Debug\netcoreapp2.1\PropriedadesEoperacoesTimeSpan.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\PropriedadesEoperacoesTimeSpan\PropriedadesEoperacoesTimeSpan\obj\Debug\netcoreapp2.1\PropriedadesEoperacoesTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\PropriedadesEoperacoesTimeSpan\PropriedadesEoperacoesTimeSpan\obj\Debug\netcoreapp2.1\PropriedadesEoperacoesTimeSpan.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\PropriedadesEoperacoesTimeSpan\PropriedadesEoperacoesTimeSpan\obj\Debug\netcoreapp2.1\PropriedadesEoperacoesTimeSpan.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\PropriedadesEoperacoesTimeSpan\PropriedadesEoperacoesTimeSpan\obj\Debug\netcoreapp2.1\PropriedadesEoperacoesTimeSpan.dll
+C:\Users\Jsix\source\repos\PropriedadesEoperacoesTimeSpan\PropriedadesEoperacoesTimeSpan\obj\Debug\netcoreapp2.1\PropriedadesEoperacoesTimeSpan.pdb

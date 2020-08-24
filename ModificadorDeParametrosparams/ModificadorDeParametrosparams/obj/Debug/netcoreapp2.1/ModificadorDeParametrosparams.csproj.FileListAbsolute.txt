@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\ModificadorDeParametrosparams\ModificadorDeParametrosparams\bin\Debug\netcoreapp2.1\ModificadorDeParametrosparams.deps.json
+C:\Users\Jsix\source\repos\ModificadorDeParametrosparams\ModificadorDeParametrosparams\bin\Debug\netcoreapp2.1\ModificadorDeParametrosparams.runtimeconfig.json
+C:\Users\Jsix\source\repos\ModificadorDeParametrosparams\ModificadorDeParametrosparams\bin\Debug\netcoreapp2.1\ModificadorDeParametrosparams.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ModificadorDeParametrosparams\ModificadorDeParametrosparams\bin\Debug\netcoreapp2.1\ModificadorDeParametrosparams.dll
+C:\Users\Jsix\source\repos\ModificadorDeParametrosparams\ModificadorDeParametrosparams\bin\Debug\netcoreapp2.1\ModificadorDeParametrosparams.pdb
+C:\Users\Jsix\source\repos\ModificadorDeParametrosparams\ModificadorDeParametrosparams\obj\Debug\netcoreapp2.1\ModificadorDeParametrosparams.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ModificadorDeParametrosparams\ModificadorDeParametrosparams\obj\Debug\netcoreapp2.1\ModificadorDeParametrosparams.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\ModificadorDeParametrosparams\ModificadorDeParametrosparams\obj\Debug\netcoreapp2.1\ModificadorDeParametrosparams.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ModificadorDeParametrosparams\ModificadorDeParametrosparams\obj\Debug\netcoreapp2.1\ModificadorDeParametrosparams.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ModificadorDeParametrosparams\ModificadorDeParametrosparams\obj\Debug\netcoreapp2.1\ModificadorDeParametrosparams.dll
+C:\Users\Jsix\source\repos\ModificadorDeParametrosparams\ModificadorDeParametrosparams\obj\Debug\netcoreapp2.1\ModificadorDeParametrosparams.pdb

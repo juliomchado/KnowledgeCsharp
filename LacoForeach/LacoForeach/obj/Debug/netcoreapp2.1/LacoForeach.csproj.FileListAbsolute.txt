@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\LacoForeach\LacoForeach\bin\Debug\netcoreapp2.1\LacoForeach.deps.json
+C:\Users\Jsix\source\repos\LacoForeach\LacoForeach\bin\Debug\netcoreapp2.1\LacoForeach.runtimeconfig.json
+C:\Users\Jsix\source\repos\LacoForeach\LacoForeach\bin\Debug\netcoreapp2.1\LacoForeach.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\LacoForeach\LacoForeach\bin\Debug\netcoreapp2.1\LacoForeach.dll
+C:\Users\Jsix\source\repos\LacoForeach\LacoForeach\bin\Debug\netcoreapp2.1\LacoForeach.pdb
+C:\Users\Jsix\source\repos\LacoForeach\LacoForeach\obj\Debug\netcoreapp2.1\LacoForeach.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\LacoForeach\LacoForeach\obj\Debug\netcoreapp2.1\LacoForeach.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\LacoForeach\LacoForeach\obj\Debug\netcoreapp2.1\LacoForeach.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\LacoForeach\LacoForeach\obj\Debug\netcoreapp2.1\LacoForeach.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\LacoForeach\LacoForeach\obj\Debug\netcoreapp2.1\LacoForeach.dll
+C:\Users\Jsix\source\repos\LacoForeach\LacoForeach\obj\Debug\netcoreapp2.1\LacoForeach.pdb

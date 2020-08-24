@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp2.1\MembrosEstaticos.deps.json
+C:\Users\Jsix\source\repos\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp2.1\MembrosEstaticos.runtimeconfig.json
+C:\Users\Jsix\source\repos\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp2.1\MembrosEstaticos.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp2.1\MembrosEstaticos.dll
+C:\Users\Jsix\source\repos\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp2.1\MembrosEstaticos.pdb
+C:\Users\Jsix\source\repos\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.dll
+C:\Users\Jsix\source\repos\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.pdb

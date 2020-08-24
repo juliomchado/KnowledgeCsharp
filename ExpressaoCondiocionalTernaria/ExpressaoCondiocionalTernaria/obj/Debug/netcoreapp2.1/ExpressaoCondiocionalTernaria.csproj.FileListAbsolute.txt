@@ -1,0 +1,10 @@
+C:\Users\Jsix\source\repos\ExpressaoCondiocionalTernaria\ExpressaoCondiocionalTernaria\obj\Debug\netcoreapp2.1\ExpressaoCondiocionalTernaria.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\ExpressaoCondiocionalTernaria\ExpressaoCondiocionalTernaria\obj\Debug\netcoreapp2.1\ExpressaoCondiocionalTernaria.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ExpressaoCondiocionalTernaria\ExpressaoCondiocionalTernaria\obj\Debug\netcoreapp2.1\ExpressaoCondiocionalTernaria.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ExpressaoCondiocionalTernaria\ExpressaoCondiocionalTernaria\bin\Debug\netcoreapp2.1\ExpressaoCondiocionalTernaria.deps.json
+C:\Users\Jsix\source\repos\ExpressaoCondiocionalTernaria\ExpressaoCondiocionalTernaria\bin\Debug\netcoreapp2.1\ExpressaoCondiocionalTernaria.runtimeconfig.json
+C:\Users\Jsix\source\repos\ExpressaoCondiocionalTernaria\ExpressaoCondiocionalTernaria\bin\Debug\netcoreapp2.1\ExpressaoCondiocionalTernaria.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ExpressaoCondiocionalTernaria\ExpressaoCondiocionalTernaria\bin\Debug\netcoreapp2.1\ExpressaoCondiocionalTernaria.dll
+C:\Users\Jsix\source\repos\ExpressaoCondiocionalTernaria\ExpressaoCondiocionalTernaria\bin\Debug\netcoreapp2.1\ExpressaoCondiocionalTernaria.pdb
+C:\Users\Jsix\source\repos\ExpressaoCondiocionalTernaria\ExpressaoCondiocionalTernaria\obj\Debug\netcoreapp2.1\ExpressaoCondiocionalTernaria.dll
+C:\Users\Jsix\source\repos\ExpressaoCondiocionalTernaria\ExpressaoCondiocionalTernaria\obj\Debug\netcoreapp2.1\ExpressaoCondiocionalTernaria.pdb

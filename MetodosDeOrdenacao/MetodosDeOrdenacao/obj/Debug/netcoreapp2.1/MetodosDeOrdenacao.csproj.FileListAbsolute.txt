@@ -1,0 +1,10 @@
+C:\Users\Jsix\source\repos\MetodosDeOrdenacao\MetodosDeOrdenacao\bin\Debug\netcoreapp2.1\MetodosDeOrdenacao.deps.json
+C:\Users\Jsix\source\repos\MetodosDeOrdenacao\MetodosDeOrdenacao\bin\Debug\netcoreapp2.1\MetodosDeOrdenacao.runtimeconfig.json
+C:\Users\Jsix\source\repos\MetodosDeOrdenacao\MetodosDeOrdenacao\bin\Debug\netcoreapp2.1\MetodosDeOrdenacao.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\MetodosDeOrdenacao\MetodosDeOrdenacao\bin\Debug\netcoreapp2.1\MetodosDeOrdenacao.dll
+C:\Users\Jsix\source\repos\MetodosDeOrdenacao\MetodosDeOrdenacao\bin\Debug\netcoreapp2.1\MetodosDeOrdenacao.pdb
+C:\Users\Jsix\source\repos\MetodosDeOrdenacao\MetodosDeOrdenacao\obj\Debug\netcoreapp2.1\MetodosDeOrdenacao.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\MetodosDeOrdenacao\MetodosDeOrdenacao\obj\Debug\netcoreapp2.1\MetodosDeOrdenacao.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\MetodosDeOrdenacao\MetodosDeOrdenacao\obj\Debug\netcoreapp2.1\MetodosDeOrdenacao.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\MetodosDeOrdenacao\MetodosDeOrdenacao\obj\Debug\netcoreapp2.1\MetodosDeOrdenacao.dll
+C:\Users\Jsix\source\repos\MetodosDeOrdenacao\MetodosDeOrdenacao\obj\Debug\netcoreapp2.1\MetodosDeOrdenacao.pdb

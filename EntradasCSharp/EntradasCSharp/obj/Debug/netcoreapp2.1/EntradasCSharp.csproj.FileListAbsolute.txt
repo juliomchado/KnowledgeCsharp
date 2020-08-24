@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\EntradasCSharp\EntradasCSharp\bin\Debug\netcoreapp2.1\EntradasCSharp.deps.json
+C:\Users\Jsix\source\repos\EntradasCSharp\EntradasCSharp\bin\Debug\netcoreapp2.1\EntradasCSharp.runtimeconfig.json
+C:\Users\Jsix\source\repos\EntradasCSharp\EntradasCSharp\bin\Debug\netcoreapp2.1\EntradasCSharp.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\EntradasCSharp\EntradasCSharp\bin\Debug\netcoreapp2.1\EntradasCSharp.dll
+C:\Users\Jsix\source\repos\EntradasCSharp\EntradasCSharp\bin\Debug\netcoreapp2.1\EntradasCSharp.pdb
+C:\Users\Jsix\source\repos\EntradasCSharp\EntradasCSharp\obj\Debug\netcoreapp2.1\EntradasCSharp.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\EntradasCSharp\EntradasCSharp\obj\Debug\netcoreapp2.1\EntradasCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\EntradasCSharp\EntradasCSharp\obj\Debug\netcoreapp2.1\EntradasCSharp.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\EntradasCSharp\EntradasCSharp\obj\Debug\netcoreapp2.1\EntradasCSharp.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\EntradasCSharp\EntradasCSharp\obj\Debug\netcoreapp2.1\EntradasCSharp.dll
+C:\Users\Jsix\source\repos\EntradasCSharp\EntradasCSharp\obj\Debug\netcoreapp2.1\EntradasCSharp.pdb

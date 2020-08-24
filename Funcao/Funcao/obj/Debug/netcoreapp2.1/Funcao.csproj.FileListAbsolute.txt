@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\Funcao\Funcao\obj\Debug\netcoreapp2.1\Funcao.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\Funcao\Funcao\obj\Debug\netcoreapp2.1\Funcao.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\Funcao\Funcao\obj\Debug\netcoreapp2.1\Funcao.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\Funcao\Funcao\obj\Debug\netcoreapp2.1\Funcao.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\Funcao\Funcao\bin\Debug\netcoreapp2.1\Funcao.deps.json
+C:\Users\Jsix\source\repos\Funcao\Funcao\bin\Debug\netcoreapp2.1\Funcao.runtimeconfig.json
+C:\Users\Jsix\source\repos\Funcao\Funcao\bin\Debug\netcoreapp2.1\Funcao.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\Funcao\Funcao\bin\Debug\netcoreapp2.1\Funcao.dll
+C:\Users\Jsix\source\repos\Funcao\Funcao\bin\Debug\netcoreapp2.1\Funcao.pdb
+C:\Users\Jsix\source\repos\Funcao\Funcao\obj\Debug\netcoreapp2.1\Funcao.dll
+C:\Users\Jsix\source\repos\Funcao\Funcao\obj\Debug\netcoreapp2.1\Funcao.pdb

@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\ExercicioDia2309\ExercicioDia2309\obj\Debug\netcoreapp2.1\ExercicioDia2309.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ExercicioDia2309\ExercicioDia2309\obj\Debug\netcoreapp2.1\ExercicioDia2309.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\ExercicioDia2309\ExercicioDia2309\obj\Debug\netcoreapp2.1\ExercicioDia2309.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ExercicioDia2309\ExercicioDia2309\obj\Debug\netcoreapp2.1\ExercicioDia2309.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ExercicioDia2309\ExercicioDia2309\bin\Debug\netcoreapp2.1\ExercicioDia2309.deps.json
+C:\Users\Jsix\source\repos\ExercicioDia2309\ExercicioDia2309\bin\Debug\netcoreapp2.1\ExercicioDia2309.runtimeconfig.json
+C:\Users\Jsix\source\repos\ExercicioDia2309\ExercicioDia2309\bin\Debug\netcoreapp2.1\ExercicioDia2309.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ExercicioDia2309\ExercicioDia2309\bin\Debug\netcoreapp2.1\ExercicioDia2309.dll
+C:\Users\Jsix\source\repos\ExercicioDia2309\ExercicioDia2309\bin\Debug\netcoreapp2.1\ExercicioDia2309.pdb
+C:\Users\Jsix\source\repos\ExercicioDia2309\ExercicioDia2309\obj\Debug\netcoreapp2.1\ExercicioDia2309.dll
+C:\Users\Jsix\source\repos\ExercicioDia2309\ExercicioDia2309\obj\Debug\netcoreapp2.1\ExercicioDia2309.pdb

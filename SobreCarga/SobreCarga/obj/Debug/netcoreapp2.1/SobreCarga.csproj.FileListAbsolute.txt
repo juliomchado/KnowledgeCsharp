@@ -1,0 +1,10 @@
+C:\Users\Jsix\source\repos\SobreCarga\SobreCarga\bin\Debug\netcoreapp2.1\SobreCarga.deps.json
+C:\Users\Jsix\source\repos\SobreCarga\SobreCarga\bin\Debug\netcoreapp2.1\SobreCarga.runtimeconfig.json
+C:\Users\Jsix\source\repos\SobreCarga\SobreCarga\bin\Debug\netcoreapp2.1\SobreCarga.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\SobreCarga\SobreCarga\bin\Debug\netcoreapp2.1\SobreCarga.dll
+C:\Users\Jsix\source\repos\SobreCarga\SobreCarga\bin\Debug\netcoreapp2.1\SobreCarga.pdb
+C:\Users\Jsix\source\repos\SobreCarga\SobreCarga\obj\Debug\netcoreapp2.1\SobreCarga.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\SobreCarga\SobreCarga\obj\Debug\netcoreapp2.1\SobreCarga.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\SobreCarga\SobreCarga\obj\Debug\netcoreapp2.1\SobreCarga.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\SobreCarga\SobreCarga\obj\Debug\netcoreapp2.1\SobreCarga.dll
+C:\Users\Jsix\source\repos\SobreCarga\SobreCarga\obj\Debug\netcoreapp2.1\SobreCarga.pdb

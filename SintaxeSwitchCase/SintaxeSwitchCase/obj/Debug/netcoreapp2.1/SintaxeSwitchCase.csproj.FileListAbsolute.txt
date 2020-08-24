@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\SintaxeSwitchCase\SintaxeSwitchCase\bin\Debug\netcoreapp2.1\SintaxeSwitchCase.deps.json
+C:\Users\Jsix\source\repos\SintaxeSwitchCase\SintaxeSwitchCase\bin\Debug\netcoreapp2.1\SintaxeSwitchCase.runtimeconfig.json
+C:\Users\Jsix\source\repos\SintaxeSwitchCase\SintaxeSwitchCase\bin\Debug\netcoreapp2.1\SintaxeSwitchCase.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\SintaxeSwitchCase\SintaxeSwitchCase\bin\Debug\netcoreapp2.1\SintaxeSwitchCase.dll
+C:\Users\Jsix\source\repos\SintaxeSwitchCase\SintaxeSwitchCase\bin\Debug\netcoreapp2.1\SintaxeSwitchCase.pdb
+C:\Users\Jsix\source\repos\SintaxeSwitchCase\SintaxeSwitchCase\obj\Debug\netcoreapp2.1\SintaxeSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\SintaxeSwitchCase\SintaxeSwitchCase\obj\Debug\netcoreapp2.1\SintaxeSwitchCase.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\SintaxeSwitchCase\SintaxeSwitchCase\obj\Debug\netcoreapp2.1\SintaxeSwitchCase.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\SintaxeSwitchCase\SintaxeSwitchCase\obj\Debug\netcoreapp2.1\SintaxeSwitchCase.dll
+C:\Users\Jsix\source\repos\SintaxeSwitchCase\SintaxeSwitchCase\obj\Debug\netcoreapp2.1\SintaxeSwitchCase.pdb
+C:\Users\Jsix\source\repos\SintaxeSwitchCase\SintaxeSwitchCase\obj\Debug\netcoreapp2.1\SintaxeSwitchCase.csprojAssemblyReference.cache

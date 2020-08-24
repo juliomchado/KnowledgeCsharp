@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\IntrodDelegates\IntrodDelegates\bin\Debug\netcoreapp3.0\IntrodDelegates.exe
+C:\Users\Jsix\source\repos\IntrodDelegates\IntrodDelegates\bin\Debug\netcoreapp3.0\IntrodDelegates.deps.json
+C:\Users\Jsix\source\repos\IntrodDelegates\IntrodDelegates\bin\Debug\netcoreapp3.0\IntrodDelegates.runtimeconfig.json
+C:\Users\Jsix\source\repos\IntrodDelegates\IntrodDelegates\bin\Debug\netcoreapp3.0\IntrodDelegates.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\IntrodDelegates\IntrodDelegates\bin\Debug\netcoreapp3.0\IntrodDelegates.dll
+C:\Users\Jsix\source\repos\IntrodDelegates\IntrodDelegates\bin\Debug\netcoreapp3.0\IntrodDelegates.pdb
+C:\Users\Jsix\source\repos\IntrodDelegates\IntrodDelegates\obj\Debug\netcoreapp3.0\IntrodDelegates.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\IntrodDelegates\IntrodDelegates\obj\Debug\netcoreapp3.0\IntrodDelegates.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\IntrodDelegates\IntrodDelegates\obj\Debug\netcoreapp3.0\IntrodDelegates.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\IntrodDelegates\IntrodDelegates\obj\Debug\netcoreapp3.0\IntrodDelegates.dll
+C:\Users\Jsix\source\repos\IntrodDelegates\IntrodDelegates\obj\Debug\netcoreapp3.0\IntrodDelegates.pdb

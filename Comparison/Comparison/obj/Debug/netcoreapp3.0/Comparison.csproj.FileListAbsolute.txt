@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\Comparison\Comparison\bin\Debug\netcoreapp3.0\Comparison.exe
+C:\Users\Jsix\source\repos\Comparison\Comparison\bin\Debug\netcoreapp3.0\Comparison.deps.json
+C:\Users\Jsix\source\repos\Comparison\Comparison\bin\Debug\netcoreapp3.0\Comparison.runtimeconfig.json
+C:\Users\Jsix\source\repos\Comparison\Comparison\bin\Debug\netcoreapp3.0\Comparison.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\Comparison\Comparison\bin\Debug\netcoreapp3.0\Comparison.dll
+C:\Users\Jsix\source\repos\Comparison\Comparison\bin\Debug\netcoreapp3.0\Comparison.pdb
+C:\Users\Jsix\source\repos\Comparison\Comparison\obj\Debug\netcoreapp3.0\Comparison.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\Comparison\Comparison\obj\Debug\netcoreapp3.0\Comparison.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\Comparison\Comparison\obj\Debug\netcoreapp3.0\Comparison.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\Comparison\Comparison\obj\Debug\netcoreapp3.0\Comparison.dll
+C:\Users\Jsix\source\repos\Comparison\Comparison\obj\Debug\netcoreapp3.0\Comparison.pdb

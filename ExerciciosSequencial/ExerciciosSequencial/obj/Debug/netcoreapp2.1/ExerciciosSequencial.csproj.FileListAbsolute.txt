@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\ExerciciosSequencial\ExerciciosSequencial\bin\Debug\netcoreapp2.1\ExerciciosSequencial.deps.json
+C:\Users\Jsix\source\repos\ExerciciosSequencial\ExerciciosSequencial\bin\Debug\netcoreapp2.1\ExerciciosSequencial.runtimeconfig.json
+C:\Users\Jsix\source\repos\ExerciciosSequencial\ExerciciosSequencial\bin\Debug\netcoreapp2.1\ExerciciosSequencial.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ExerciciosSequencial\ExerciciosSequencial\bin\Debug\netcoreapp2.1\ExerciciosSequencial.dll
+C:\Users\Jsix\source\repos\ExerciciosSequencial\ExerciciosSequencial\bin\Debug\netcoreapp2.1\ExerciciosSequencial.pdb
+C:\Users\Jsix\source\repos\ExerciciosSequencial\ExerciciosSequencial\obj\Debug\netcoreapp2.1\ExerciciosSequencial.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ExerciciosSequencial\ExerciciosSequencial\obj\Debug\netcoreapp2.1\ExerciciosSequencial.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\ExerciciosSequencial\ExerciciosSequencial\obj\Debug\netcoreapp2.1\ExerciciosSequencial.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ExerciciosSequencial\ExerciciosSequencial\obj\Debug\netcoreapp2.1\ExerciciosSequencial.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ExerciciosSequencial\ExerciciosSequencial\obj\Debug\netcoreapp2.1\ExerciciosSequencial.dll
+C:\Users\Jsix\source\repos\ExerciciosSequencial\ExerciciosSequencial\obj\Debug\netcoreapp2.1\ExerciciosSequencial.pdb

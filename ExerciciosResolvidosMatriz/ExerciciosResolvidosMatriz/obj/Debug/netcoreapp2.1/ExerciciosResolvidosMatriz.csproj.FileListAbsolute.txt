@@ -1,0 +1,10 @@
+C:\Users\Jsix\source\repos\ExerciciosResolvidosMatriz\ExerciciosResolvidosMatriz\bin\Debug\netcoreapp2.1\ExerciciosResolvidosMatriz.deps.json
+C:\Users\Jsix\source\repos\ExerciciosResolvidosMatriz\ExerciciosResolvidosMatriz\bin\Debug\netcoreapp2.1\ExerciciosResolvidosMatriz.runtimeconfig.json
+C:\Users\Jsix\source\repos\ExerciciosResolvidosMatriz\ExerciciosResolvidosMatriz\bin\Debug\netcoreapp2.1\ExerciciosResolvidosMatriz.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ExerciciosResolvidosMatriz\ExerciciosResolvidosMatriz\bin\Debug\netcoreapp2.1\ExerciciosResolvidosMatriz.dll
+C:\Users\Jsix\source\repos\ExerciciosResolvidosMatriz\ExerciciosResolvidosMatriz\bin\Debug\netcoreapp2.1\ExerciciosResolvidosMatriz.pdb
+C:\Users\Jsix\source\repos\ExerciciosResolvidosMatriz\ExerciciosResolvidosMatriz\obj\Debug\netcoreapp2.1\ExerciciosResolvidosMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\ExerciciosResolvidosMatriz\ExerciciosResolvidosMatriz\obj\Debug\netcoreapp2.1\ExerciciosResolvidosMatriz.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ExerciciosResolvidosMatriz\ExerciciosResolvidosMatriz\obj\Debug\netcoreapp2.1\ExerciciosResolvidosMatriz.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ExerciciosResolvidosMatriz\ExerciciosResolvidosMatriz\obj\Debug\netcoreapp2.1\ExerciciosResolvidosMatriz.dll
+C:\Users\Jsix\source\repos\ExerciciosResolvidosMatriz\ExerciciosResolvidosMatriz\obj\Debug\netcoreapp2.1\ExerciciosResolvidosMatriz.pdb

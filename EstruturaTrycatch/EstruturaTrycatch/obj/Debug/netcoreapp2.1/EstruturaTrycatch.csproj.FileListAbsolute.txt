@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\EstruturaTrycatch\EstruturaTrycatch\bin\Debug\netcoreapp2.1\EstruturaTrycatch.deps.json
+C:\Users\Jsix\source\repos\EstruturaTrycatch\EstruturaTrycatch\bin\Debug\netcoreapp2.1\EstruturaTrycatch.runtimeconfig.json
+C:\Users\Jsix\source\repos\EstruturaTrycatch\EstruturaTrycatch\bin\Debug\netcoreapp2.1\EstruturaTrycatch.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\EstruturaTrycatch\EstruturaTrycatch\bin\Debug\netcoreapp2.1\EstruturaTrycatch.dll
+C:\Users\Jsix\source\repos\EstruturaTrycatch\EstruturaTrycatch\bin\Debug\netcoreapp2.1\EstruturaTrycatch.pdb
+C:\Users\Jsix\source\repos\EstruturaTrycatch\EstruturaTrycatch\obj\Debug\netcoreapp2.1\EstruturaTrycatch.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\EstruturaTrycatch\EstruturaTrycatch\obj\Debug\netcoreapp2.1\EstruturaTrycatch.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\EstruturaTrycatch\EstruturaTrycatch\obj\Debug\netcoreapp2.1\EstruturaTrycatch.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\EstruturaTrycatch\EstruturaTrycatch\obj\Debug\netcoreapp2.1\EstruturaTrycatch.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\EstruturaTrycatch\EstruturaTrycatch\obj\Debug\netcoreapp2.1\EstruturaTrycatch.dll
+C:\Users\Jsix\source\repos\EstruturaTrycatch\EstruturaTrycatch\obj\Debug\netcoreapp2.1\EstruturaTrycatch.pdb

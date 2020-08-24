@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Jsix\Documents\Cursos\C# COMPLETO 2019 Programação Orientada a Objetos + Projetos\Projetos\ExerciciosEstruturaSequencial\ExerciciosEstruturasSequencialCompleto.cs" Link="ExerciciosEstruturasSequencialCompleto.cs" />
+  </ItemGroup>
+
+</Project>

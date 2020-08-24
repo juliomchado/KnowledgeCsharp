@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.0\DelegateAction.exe
+C:\Users\Jsix\source\repos\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.0\DelegateAction.deps.json
+C:\Users\Jsix\source\repos\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.0\DelegateAction.runtimeconfig.json
+C:\Users\Jsix\source\repos\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.0\DelegateAction.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.0\DelegateAction.dll
+C:\Users\Jsix\source\repos\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.0\DelegateAction.pdb
+C:\Users\Jsix\source\repos\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.0\DelegateAction.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.0\DelegateAction.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.0\DelegateAction.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.0\DelegateAction.dll
+C:\Users\Jsix\source\repos\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.0\DelegateAction.pdb

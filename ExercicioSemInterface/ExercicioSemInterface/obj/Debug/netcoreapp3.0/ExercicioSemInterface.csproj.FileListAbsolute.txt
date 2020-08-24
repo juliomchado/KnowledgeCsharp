@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\ExercicioSemInterface\ExercicioSemInterface\bin\Debug\netcoreapp3.0\ExercicioSemInterface.exe
+C:\Users\Jsix\source\repos\ExercicioSemInterface\ExercicioSemInterface\bin\Debug\netcoreapp3.0\ExercicioSemInterface.deps.json
+C:\Users\Jsix\source\repos\ExercicioSemInterface\ExercicioSemInterface\bin\Debug\netcoreapp3.0\ExercicioSemInterface.runtimeconfig.json
+C:\Users\Jsix\source\repos\ExercicioSemInterface\ExercicioSemInterface\bin\Debug\netcoreapp3.0\ExercicioSemInterface.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ExercicioSemInterface\ExercicioSemInterface\bin\Debug\netcoreapp3.0\ExercicioSemInterface.dll
+C:\Users\Jsix\source\repos\ExercicioSemInterface\ExercicioSemInterface\bin\Debug\netcoreapp3.0\ExercicioSemInterface.pdb
+C:\Users\Jsix\source\repos\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\netcoreapp3.0\ExercicioSemInterface.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\netcoreapp3.0\ExercicioSemInterface.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\netcoreapp3.0\ExercicioSemInterface.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\netcoreapp3.0\ExercicioSemInterface.dll
+C:\Users\Jsix\source\repos\ExercicioSemInterface\ExercicioSemInterface\obj\Debug\netcoreapp3.0\ExercicioSemInterface.pdb

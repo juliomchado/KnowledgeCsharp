@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\Matrizes\Matrizes\bin\Debug\netcoreapp2.1\Matrizes.deps.json
+C:\Users\Jsix\source\repos\Matrizes\Matrizes\bin\Debug\netcoreapp2.1\Matrizes.runtimeconfig.json
+C:\Users\Jsix\source\repos\Matrizes\Matrizes\bin\Debug\netcoreapp2.1\Matrizes.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\Matrizes\Matrizes\bin\Debug\netcoreapp2.1\Matrizes.dll
+C:\Users\Jsix\source\repos\Matrizes\Matrizes\bin\Debug\netcoreapp2.1\Matrizes.pdb
+C:\Users\Jsix\source\repos\Matrizes\Matrizes\obj\Debug\netcoreapp2.1\Matrizes.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\Matrizes\Matrizes\obj\Debug\netcoreapp2.1\Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\Matrizes\Matrizes\obj\Debug\netcoreapp2.1\Matrizes.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\Matrizes\Matrizes\obj\Debug\netcoreapp2.1\Matrizes.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\Matrizes\Matrizes\obj\Debug\netcoreapp2.1\Matrizes.dll
+C:\Users\Jsix\source\repos\Matrizes\Matrizes\obj\Debug\netcoreapp2.1\Matrizes.pdb

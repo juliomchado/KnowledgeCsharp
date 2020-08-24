@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\Path\Path\bin\Debug\netcoreapp3.0\Path.exe
+C:\Users\Jsix\source\repos\Path\Path\bin\Debug\netcoreapp3.0\Path.deps.json
+C:\Users\Jsix\source\repos\Path\Path\bin\Debug\netcoreapp3.0\Path.runtimeconfig.json
+C:\Users\Jsix\source\repos\Path\Path\bin\Debug\netcoreapp3.0\Path.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\Path\Path\bin\Debug\netcoreapp3.0\Path.dll
+C:\Users\Jsix\source\repos\Path\Path\bin\Debug\netcoreapp3.0\Path.pdb
+C:\Users\Jsix\source\repos\Path\Path\obj\Debug\netcoreapp3.0\Path.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\Path\Path\obj\Debug\netcoreapp3.0\Path.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\Path\Path\obj\Debug\netcoreapp3.0\Path.dll
+C:\Users\Jsix\source\repos\Path\Path\obj\Debug\netcoreapp3.0\Path.pdb
+C:\Users\Jsix\source\repos\Path\Path\obj\Debug\netcoreapp3.0\Path.csprojAssemblyReference.cache

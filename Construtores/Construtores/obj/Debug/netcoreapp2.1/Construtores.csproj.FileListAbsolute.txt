@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\Construtores\Construtores\obj\Debug\netcoreapp2.1\Construtores.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\Construtores\Construtores\obj\Debug\netcoreapp2.1\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\Construtores\Construtores\obj\Debug\netcoreapp2.1\Construtores.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\Construtores\Construtores\obj\Debug\netcoreapp2.1\Construtores.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\Construtores\Construtores\bin\Debug\netcoreapp2.1\Construtores.deps.json
+C:\Users\Jsix\source\repos\Construtores\Construtores\bin\Debug\netcoreapp2.1\Construtores.runtimeconfig.json
+C:\Users\Jsix\source\repos\Construtores\Construtores\bin\Debug\netcoreapp2.1\Construtores.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\Construtores\Construtores\bin\Debug\netcoreapp2.1\Construtores.dll
+C:\Users\Jsix\source\repos\Construtores\Construtores\bin\Debug\netcoreapp2.1\Construtores.pdb
+C:\Users\Jsix\source\repos\Construtores\Construtores\obj\Debug\netcoreapp2.1\Construtores.dll
+C:\Users\Jsix\source\repos\Construtores\Construtores\obj\Debug\netcoreapp2.1\Construtores.pdb

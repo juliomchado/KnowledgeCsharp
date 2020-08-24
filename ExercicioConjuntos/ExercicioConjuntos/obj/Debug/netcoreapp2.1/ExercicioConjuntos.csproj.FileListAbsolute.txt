@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\netcoreapp2.1\ExercicioConjuntos.deps.json
+C:\Users\Jsix\source\repos\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\netcoreapp2.1\ExercicioConjuntos.runtimeconfig.json
+C:\Users\Jsix\source\repos\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\netcoreapp2.1\ExercicioConjuntos.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\netcoreapp2.1\ExercicioConjuntos.dll
+C:\Users\Jsix\source\repos\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\netcoreapp2.1\ExercicioConjuntos.pdb
+C:\Users\Jsix\source\repos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\netcoreapp2.1\ExercicioConjuntos.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\netcoreapp2.1\ExercicioConjuntos.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\netcoreapp2.1\ExercicioConjuntos.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\netcoreapp2.1\ExercicioConjuntos.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\netcoreapp2.1\ExercicioConjuntos.dll
+C:\Users\Jsix\source\repos\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\netcoreapp2.1\ExercicioConjuntos.pdb

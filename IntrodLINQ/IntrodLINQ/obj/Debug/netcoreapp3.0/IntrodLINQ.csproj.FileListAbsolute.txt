@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\IntrodLINQ\IntrodLINQ\bin\Debug\netcoreapp3.0\IntrodLINQ.exe
+C:\Users\Jsix\source\repos\IntrodLINQ\IntrodLINQ\bin\Debug\netcoreapp3.0\IntrodLINQ.deps.json
+C:\Users\Jsix\source\repos\IntrodLINQ\IntrodLINQ\bin\Debug\netcoreapp3.0\IntrodLINQ.runtimeconfig.json
+C:\Users\Jsix\source\repos\IntrodLINQ\IntrodLINQ\bin\Debug\netcoreapp3.0\IntrodLINQ.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\IntrodLINQ\IntrodLINQ\bin\Debug\netcoreapp3.0\IntrodLINQ.dll
+C:\Users\Jsix\source\repos\IntrodLINQ\IntrodLINQ\bin\Debug\netcoreapp3.0\IntrodLINQ.pdb
+C:\Users\Jsix\source\repos\IntrodLINQ\IntrodLINQ\obj\Debug\netcoreapp3.0\IntrodLINQ.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\IntrodLINQ\IntrodLINQ\obj\Debug\netcoreapp3.0\IntrodLINQ.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\IntrodLINQ\IntrodLINQ\obj\Debug\netcoreapp3.0\IntrodLINQ.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\IntrodLINQ\IntrodLINQ\obj\Debug\netcoreapp3.0\IntrodLINQ.dll
+C:\Users\Jsix\source\repos\IntrodLINQ\IntrodLINQ\obj\Debug\netcoreapp3.0\IntrodLINQ.pdb

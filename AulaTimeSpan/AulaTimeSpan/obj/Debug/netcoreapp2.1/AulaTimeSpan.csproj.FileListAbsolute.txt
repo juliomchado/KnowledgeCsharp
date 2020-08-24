@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\AulaTimeSpan\AulaTimeSpan\bin\Debug\netcoreapp2.1\AulaTimeSpan.deps.json
+C:\Users\Jsix\source\repos\AulaTimeSpan\AulaTimeSpan\bin\Debug\netcoreapp2.1\AulaTimeSpan.runtimeconfig.json
+C:\Users\Jsix\source\repos\AulaTimeSpan\AulaTimeSpan\bin\Debug\netcoreapp2.1\AulaTimeSpan.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\AulaTimeSpan\AulaTimeSpan\bin\Debug\netcoreapp2.1\AulaTimeSpan.dll
+C:\Users\Jsix\source\repos\AulaTimeSpan\AulaTimeSpan\bin\Debug\netcoreapp2.1\AulaTimeSpan.pdb
+C:\Users\Jsix\source\repos\AulaTimeSpan\AulaTimeSpan\obj\Debug\netcoreapp2.1\AulaTimeSpan.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\AulaTimeSpan\AulaTimeSpan\obj\Debug\netcoreapp2.1\AulaTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\AulaTimeSpan\AulaTimeSpan\obj\Debug\netcoreapp2.1\AulaTimeSpan.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\AulaTimeSpan\AulaTimeSpan\obj\Debug\netcoreapp2.1\AulaTimeSpan.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\AulaTimeSpan\AulaTimeSpan\obj\Debug\netcoreapp2.1\AulaTimeSpan.dll
+C:\Users\Jsix\source\repos\AulaTimeSpan\AulaTimeSpan\obj\Debug\netcoreapp2.1\AulaTimeSpan.pdb

@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\Predicate\Predicate\bin\Debug\netcoreapp3.0\Predicate.exe
+C:\Users\Jsix\source\repos\Predicate\Predicate\bin\Debug\netcoreapp3.0\Predicate.deps.json
+C:\Users\Jsix\source\repos\Predicate\Predicate\bin\Debug\netcoreapp3.0\Predicate.runtimeconfig.json
+C:\Users\Jsix\source\repos\Predicate\Predicate\bin\Debug\netcoreapp3.0\Predicate.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\Predicate\Predicate\bin\Debug\netcoreapp3.0\Predicate.dll
+C:\Users\Jsix\source\repos\Predicate\Predicate\bin\Debug\netcoreapp3.0\Predicate.pdb
+C:\Users\Jsix\source\repos\Predicate\Predicate\obj\Debug\netcoreapp3.0\Predicate.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\Predicate\Predicate\obj\Debug\netcoreapp3.0\Predicate.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\Predicate\Predicate\obj\Debug\netcoreapp3.0\Predicate.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\Predicate\Predicate\obj\Debug\netcoreapp3.0\Predicate.dll
+C:\Users\Jsix\source\repos\Predicate\Predicate\obj\Debug\netcoreapp3.0\Predicate.pdb

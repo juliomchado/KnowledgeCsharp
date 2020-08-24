@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\ExercicioFixacaoLinqDelegate\ExercicioFixacaoLinqDelegate\bin\Debug\netcoreapp3.1\ExercicioFixacaoLinqDelegate.exe
+C:\Users\Jsix\source\repos\ExercicioFixacaoLinqDelegate\ExercicioFixacaoLinqDelegate\bin\Debug\netcoreapp3.1\ExercicioFixacaoLinqDelegate.deps.json
+C:\Users\Jsix\source\repos\ExercicioFixacaoLinqDelegate\ExercicioFixacaoLinqDelegate\bin\Debug\netcoreapp3.1\ExercicioFixacaoLinqDelegate.runtimeconfig.json
+C:\Users\Jsix\source\repos\ExercicioFixacaoLinqDelegate\ExercicioFixacaoLinqDelegate\bin\Debug\netcoreapp3.1\ExercicioFixacaoLinqDelegate.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ExercicioFixacaoLinqDelegate\ExercicioFixacaoLinqDelegate\bin\Debug\netcoreapp3.1\ExercicioFixacaoLinqDelegate.dll
+C:\Users\Jsix\source\repos\ExercicioFixacaoLinqDelegate\ExercicioFixacaoLinqDelegate\bin\Debug\netcoreapp3.1\ExercicioFixacaoLinqDelegate.pdb
+C:\Users\Jsix\source\repos\ExercicioFixacaoLinqDelegate\ExercicioFixacaoLinqDelegate\obj\Debug\netcoreapp3.1\ExercicioFixacaoLinqDelegate.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ExercicioFixacaoLinqDelegate\ExercicioFixacaoLinqDelegate\obj\Debug\netcoreapp3.1\ExercicioFixacaoLinqDelegate.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ExercicioFixacaoLinqDelegate\ExercicioFixacaoLinqDelegate\obj\Debug\netcoreapp3.1\ExercicioFixacaoLinqDelegate.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ExercicioFixacaoLinqDelegate\ExercicioFixacaoLinqDelegate\obj\Debug\netcoreapp3.1\ExercicioFixacaoLinqDelegate.dll
+C:\Users\Jsix\source\repos\ExercicioFixacaoLinqDelegate\ExercicioFixacaoLinqDelegate\obj\Debug\netcoreapp3.1\ExercicioFixacaoLinqDelegate.pdb

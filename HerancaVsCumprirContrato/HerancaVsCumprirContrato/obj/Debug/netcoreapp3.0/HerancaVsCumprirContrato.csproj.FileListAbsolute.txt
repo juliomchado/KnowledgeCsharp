@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\HerancaVsCumprirContrato\HerancaVsCumprirContrato\bin\Debug\netcoreapp3.0\HerancaVsCumprirContrato.exe
+C:\Users\Jsix\source\repos\HerancaVsCumprirContrato\HerancaVsCumprirContrato\bin\Debug\netcoreapp3.0\HerancaVsCumprirContrato.deps.json
+C:\Users\Jsix\source\repos\HerancaVsCumprirContrato\HerancaVsCumprirContrato\bin\Debug\netcoreapp3.0\HerancaVsCumprirContrato.runtimeconfig.json
+C:\Users\Jsix\source\repos\HerancaVsCumprirContrato\HerancaVsCumprirContrato\bin\Debug\netcoreapp3.0\HerancaVsCumprirContrato.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\HerancaVsCumprirContrato\HerancaVsCumprirContrato\bin\Debug\netcoreapp3.0\HerancaVsCumprirContrato.dll
+C:\Users\Jsix\source\repos\HerancaVsCumprirContrato\HerancaVsCumprirContrato\bin\Debug\netcoreapp3.0\HerancaVsCumprirContrato.pdb
+C:\Users\Jsix\source\repos\HerancaVsCumprirContrato\HerancaVsCumprirContrato\obj\Debug\netcoreapp3.0\HerancaVsCumprirContrato.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\HerancaVsCumprirContrato\HerancaVsCumprirContrato\obj\Debug\netcoreapp3.0\HerancaVsCumprirContrato.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\HerancaVsCumprirContrato\HerancaVsCumprirContrato\obj\Debug\netcoreapp3.0\HerancaVsCumprirContrato.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\HerancaVsCumprirContrato\HerancaVsCumprirContrato\obj\Debug\netcoreapp3.0\HerancaVsCumprirContrato.dll
+C:\Users\Jsix\source\repos\HerancaVsCumprirContrato\HerancaVsCumprirContrato\obj\Debug\netcoreapp3.0\HerancaVsCumprirContrato.pdb

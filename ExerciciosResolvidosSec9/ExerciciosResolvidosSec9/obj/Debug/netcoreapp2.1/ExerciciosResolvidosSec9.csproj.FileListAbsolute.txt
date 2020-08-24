@@ -1,0 +1,11 @@
+C:\Users\Jsix\source\repos\ExerciciosResolvidosSec9\ExerciciosResolvidosSec9\bin\Debug\netcoreapp2.1\ExerciciosResolvidosSec9.deps.json
+C:\Users\Jsix\source\repos\ExerciciosResolvidosSec9\ExerciciosResolvidosSec9\bin\Debug\netcoreapp2.1\ExerciciosResolvidosSec9.runtimeconfig.json
+C:\Users\Jsix\source\repos\ExerciciosResolvidosSec9\ExerciciosResolvidosSec9\bin\Debug\netcoreapp2.1\ExerciciosResolvidosSec9.runtimeconfig.dev.json
+C:\Users\Jsix\source\repos\ExerciciosResolvidosSec9\ExerciciosResolvidosSec9\bin\Debug\netcoreapp2.1\ExerciciosResolvidosSec9.dll
+C:\Users\Jsix\source\repos\ExerciciosResolvidosSec9\ExerciciosResolvidosSec9\bin\Debug\netcoreapp2.1\ExerciciosResolvidosSec9.pdb
+C:\Users\Jsix\source\repos\ExerciciosResolvidosSec9\ExerciciosResolvidosSec9\obj\Debug\netcoreapp2.1\ExerciciosResolvidosSec9.csprojAssemblyReference.cache
+C:\Users\Jsix\source\repos\ExerciciosResolvidosSec9\ExerciciosResolvidosSec9\obj\Debug\netcoreapp2.1\ExerciciosResolvidosSec9.csproj.CoreCompileInputs.cache
+C:\Users\Jsix\source\repos\ExerciciosResolvidosSec9\ExerciciosResolvidosSec9\obj\Debug\netcoreapp2.1\ExerciciosResolvidosSec9.AssemblyInfoInputs.cache
+C:\Users\Jsix\source\repos\ExerciciosResolvidosSec9\ExerciciosResolvidosSec9\obj\Debug\netcoreapp2.1\ExerciciosResolvidosSec9.AssemblyInfo.cs
+C:\Users\Jsix\source\repos\ExerciciosResolvidosSec9\ExerciciosResolvidosSec9\obj\Debug\netcoreapp2.1\ExerciciosResolvidosSec9.dll
+C:\Users\Jsix\source\repos\ExerciciosResolvidosSec9\ExerciciosResolvidosSec9\obj\Debug\netcoreapp2.1\ExerciciosResolvidosSec9.pdb
